@@ -1,7 +1,26 @@
-Sol, the sunlit chef - Wizard Alchemist (Brewmaster) 
+Sol, the sunlit chef - Wizard Alchemist (Brewmaster)
+Alchemy & Brewing don't exist as Wizard subclasses, can we homebrew?
 
+Water breathing cantrip (HB?) Potion of Water Breathing, or level 3 spell "Water Breathing"
+
+The Spell Book's Appearance - A server's book - small notebook that waitors/waitresses use
+
+Either Triton or Human, can it be human variant? Down to DM
+Human (Innistrad)
+Nephalia
+Age. Late 20s
+Size. Medium, tall and built out (not a classic wizard)
+Speed. 30ft
+Languages. Common + 1 (DM?)
+Ability Score Increase. Your Intelligence and Charisma scores each increase by 1.
+Breadth of Knowledge. You gain proficiency in any combination of four skills or with four tools of your choice.
+
+Personality:
 Consumes copious amount of alcohol and other alchemical drinks
 Always experimenting trying out sips of various drinks (flavour not of any use)
+
+Background:
+Beneath an ever-present shroud of fog billowing in from the sea, the people of Nephalia maintain a semblance of normalcy, buying and selling goods from across Innistrad in their bustling markets, setting out to sea in tiny fishing boats, or tilling the soggy earth in waterlogged fields.
 
 10 mins to brew?
 What is the advantage of brewing a spell into a potion?
@@ -20,3 +39,24 @@ Inspiration/Ideas;
 https://www.youtube.com/watch?v=d5wEWwu_ea4&ab_channel=SparrowObray
 https://www.gmbinder.com/share/-Mx7iDagHOK6qYdt3yMx#:~:text=Arcane%20Tradition%3A%20Alchemist,of%20potions%20is%20time%20consuming.
 https://homebrewery.naturalcrit.com/share/HkfL8dBP4
+
+Wizard
+Spell slots regained fully on long rest
+Spell slots regained 1/day on short rest half wiz level rounded up
+
+Levelling (Wizard)
+Each time you gain a wizard level, add 2x wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots.
+
+On your adventures, you might find other spells that you can add to your spellbook.
+For each level of the spell, the process takes 2 hours and costs 50 gp.
+
+1: Spellcasting, 3x cantrips, Spell book - 6x 1st level spells.
+2: Arcane tradition (ALCHEMIST/BREWMASTER)
+3: 1/long rest can swap a cantrip with another, 2nd level spells
+4: ASI/Feat
+5: 3rd Level Spells, PB increase
+6: Arcane tradition (ALCHEMIST/BREWMASTER)
+7: 4th Level Spells
+8: ASI/Feat
+9: 5th Level Spells, PB increase
+10: Arcane tradition (ALCHEMIST/BREWMASTER)
