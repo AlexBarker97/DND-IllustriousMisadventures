@@ -7,32 +7,15 @@ Either Triton or Human, can it be human variant? Down to DM
 	Age. Late 20s
 	Size. Medium, tall and built out (not a classic wizard)
 	Speed. 30ft
-	Languages. Common + 1 (DM?)
+	Languages. Plachian & Offalian 
 
-Questions:
-	Class - Can we be Triton or could I be a variant human (Innistrad)?
-		Triton
-			Ability Score Increase. One by 2 and another by 1  OR  Three by 1
-			Amphibious. You can breathe air and water.
-			Control Air and Water. - 1st Fog Cloud, 3rd Gust of Wind, 5th Water Walk
-			Darkvision
-			Emissary of the Sea - Communicate simple ideas to any Beast, Elemental, or Monstrosity that has a swimming speed.
-			Guardian of the Depths - Resistance to cold damage.
-
-		Innistrad - Nephalia 
-			Ability Score Increase. Your Intelligence and Charisma scores each increase by 1.
-			Breadth of Knowledge. You gain proficiency in any combination of four skills or with four tools of your choice.
-
-	Water breathing importance?
-		Water breathing cantrip (HB?)
-		Potion of Water Breathing ability to make?
-		Or level 3 spell "Water Breathing"
-
-	What is the advantage of brewing a spell into a potion?
-	  More uses, save across days, longer lasting, more potent?
-	  10 mins to brew?
-
-	Drinking a potion officially is an action, will we run it as action or bonus action?
+Class - Triton
+	Ability Score Increase. One by 2 and another by 1  OR  Three by 1
+	Amphibious. You can breathe air and water.
+	Control Air and Water. - 1st Fog Cloud, 3rd Gust of Wind, 5th Water Walk
+	Darkvision
+	Emissary of the Sea - Communicate simple ideas to any Beast, Elemental, or Monstrosity that has a swimming speed.
+	Guardian of the Depths - Resistance to cold damage.
 
 Proficiencies
 	Armor: None
@@ -52,6 +35,7 @@ Personality:
 	He is very comfortable trading in markets and travelling the seas
 
 Background:
+	Fisher
 	Comes from a large trading port and has lived on or around boats for most of his life.
 	He noticed the giant lack of good scran on ships and found a massive gap in the market serving incredible food and booze to sailors and pirates as they travelled.
 	As he travelled he also begins experimenting with not just boozes but alchemical potions with arcane spells.
@@ -91,32 +75,34 @@ Homebrew Arcane tradition (Brewmaster)
 		Effects of other people's potions on him?
 		Some benefit to drinking
 
-Are we doing Backgrounds?
-
 Items:
 	You start with the following equipment, in addition to the equipment granted by your background:
 
-	A quarterstaff  OR  A dagger				-	The grill stick
-	A component pouch  OR  An arcane focus		-	Something boozy
-	A scholar's pack  OR  An explorer's pack	-	?? Will a book of lore in scholars pack give me much?
-	A spellbook
+	The grill stick (find on ship on wall)
 
-	Gold?
+	A component pouch
+	A spellbook
 
 	Could he have a backup spellbook with a much smaller list?
 	
 	"The grill stick"
 		Trident as a staff with trash stats
 		Can get 3 fish over the stove on the trident
-	
+		
 	Brewmaster's kit
 		Poisoner's kit (but with tankards)
 		Includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
-
-
-
+		
 Inspiration/Ideas;
 https://www.youtube.com/watch?v=umwRJaElqAw
 https://www.gmbinder.com/share/-Mx7iDagHOK6qYdt3yMx#:~:text=Arcane%20Tradition%3A%20Alchemist,of%20potions%20is%20time%20consuming.
 https://homebrewery.naturalcrit.com/share/HkfL8dBP4
 https://www.worldanvil.com/block/470269
+
+Spells with monetary value will be a special ingredient to find instead
+
+What is his wish that he is chasing
+
+Will always try to do the right thing
+
+16+2, 14, 13+1, 13, 10, 8
