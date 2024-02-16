@@ -1,62 +1,122 @@
-Sol, the sunlit chef - Wizard Alchemist (Brewmaster)
-Alchemy & Brewing don't exist as Wizard subclasses, can we homebrew?
+Sol, the Lionheart - Wizard
 
-Water breathing cantrip (HB?) Potion of Water Breathing, or level 3 spell "Water Breathing"
-
-The Spell Book's Appearance - A server's book - small notebook that waitors/waitresses use
+Alchemist/Brewmaster
+	Alchemy & Brewing don't exist as Wizard subclasses, is DM okay with homebrewing something?
 
 Either Triton or Human, can it be human variant? Down to DM
-Human (Innistrad)
-Nephalia
-Age. Late 20s
-Size. Medium, tall and built out (not a classic wizard)
-Speed. 30ft
-Languages. Common + 1 (DM?)
-Ability Score Increase. Your Intelligence and Charisma scores each increase by 1.
-Breadth of Knowledge. You gain proficiency in any combination of four skills or with four tools of your choice.
+	Age. Late 20s
+	Size. Medium, tall and built out (not a classic wizard)
+	Speed. 30ft
+	Languages. Common + 1 (DM?)
+
+Questions:
+	Class - Can we be Triton or could I be a variant human (Innistrad)?
+		Triton
+			Ability Score Increase. One by 2 and another by 1  OR  Three by 1
+			Amphibious. You can breathe air and water.
+			Control Air and Water. - 1st Fog Cloud, 3rd Gust of Wind, 5th Water Walk
+			Darkvision
+			Emissary of the Sea - Communicate simple ideas to any Beast, Elemental, or Monstrosity that has a swimming speed.
+			Guardian of the Depths - Resistance to cold damage.
+
+		Innistrad - Nephalia 
+			Ability Score Increase. Your Intelligence and Charisma scores each increase by 1.
+			Breadth of Knowledge. You gain proficiency in any combination of four skills or with four tools of your choice.
+
+	Water breathing importance?
+		Water breathing cantrip (HB?)
+		Potion of Water Breathing ability to make?
+		Or level 3 spell "Water Breathing"
+
+	What is the advantage of brewing a spell into a potion?
+	  More uses, save across days, longer lasting, more potent?
+	  10 mins to brew?
+
+	Drinking a potion officially is an action, will we run it as action or bonus action?
+
+Proficiencies
+	Armor: None
+	Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
+	Tools: None
+	Saving Throws: Intelligence, Wisdom
+	Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+
+The Spell Book:
+	A server's book - small notebook that waitors/waitresses use
 
 Personality:
-Consumes copious amount of alcohol and other alchemical drinks
-Always experimenting trying out sips of various drinks (flavour not of any use)
+	Full of pride and his confidence rarely falters
+	Consumes copious amount of alcohol and other alchemical drinks
+	Takes an inhuman amount to get him drunk
+	Always sipping at various experimental drinks and potions (flavour not of any use)
+	He is very comfortable trading in markets and travelling the seas
 
 Background:
-Beneath an ever-present shroud of fog billowing in from the sea, the people of Nephalia maintain a semblance of normalcy, buying and selling goods from across Innistrad in their bustling markets, setting out to sea in tiny fishing boats, or tilling the soggy earth in waterlogged fields.
+	Comes from a large trading port and has lived on or around boats for most of his life.
+	He noticed the giant lack of good scran on ships and found a massive gap in the market serving incredible food and booze to sailors and pirates as they travelled.
+	As he travelled he also begins experimenting with not just boozes but alchemical potions with arcane spells.
 
-10 mins to brew?
-What is the advantage of brewing a spell into a potion?
-  More uses, save across days, longer lasting, more potent?
+Wizard
+	Spell slots regained fully on long rest
+	Spell slots regained 1/day on short rest half wiz level rounded up
 
-"The grill stick"
-Trident as a staff with trash stats
-Can get 3 fish over the stove on the trident
+Levelling (Wizard)
+	Each time you gain a wizard level, add 2x wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots.
 
-Brewmaster's kit
-Poisoner's kit (but with tankards)
-Includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+	1: Spellcasting, 3x cantrips, Spell book - 6x 1st level spells.
+	2: Arcane tradition (ALCHEMIST/BREWMASTER)
+	3: 1/long rest can swap a cantrip with another, 2nd level spells
+	4: ASI/Feat
+	5: 3rd Level Spells, PB increase
+	6: Arcane tradition (ALCHEMIST/BREWMASTER)
+	7: 4th Level Spells
+	8: ASI/Feat
+	9: 5th Level Spells, PB increase
+	10: Arcane tradition (ALCHEMIST/BREWMASTER)
+
+On your adventures, you might find other spells that you can add to your spellbook.
+	For each level of the spell, the process takes 2 hours and costs 50 gp.
+
+Homebrew Arcane tradition (Brewmaster)
+	2nd level:
+		Brew arcane potions?
+		Brew cantrips for free?
+		Could mage armour be a cantrip in potion form?
+		Can he brew other general potions?
+			Weapon coatings?
+			Healing potions?
+		https://www.gmbinder.com/share/-Mx7iDagHOK6qYdt3yMx#:~:text=Arcane%20Tradition%3A%20Alchemist,of%20potions%20is%20time%20consuming
+
+	6th level:
+		Effects of other people's potions on him?
+		Some benefit to drinking
+
+Are we doing Backgrounds?
+
+Items:
+	You start with the following equipment, in addition to the equipment granted by your background:
+
+	A quarterstaff  OR  A dagger				-	The grill stick
+	A component pouch  OR  An arcane focus		-	Something boozy
+	A scholar's pack  OR  An explorer's pack	-	?? Will a book of lore in scholars pack give me much?
+	A spellbook
+
+	Gold?
+
+	Could he have a backup spellbook with a much smaller list?
+	
+	"The grill stick"
+		Trident as a staff with trash stats
+		Can get 3 fish over the stove on the trident
+	
+	Brewmaster's kit
+		Poisoner's kit (but with tankards)
+		Includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+
 
 
 Inspiration/Ideas;
-https://www.youtube.com/watch?v=d5wEWwu_ea4&ab_channel=SparrowObray
+https://www.youtube.com/watch?v=umwRJaElqAw
 https://www.gmbinder.com/share/-Mx7iDagHOK6qYdt3yMx#:~:text=Arcane%20Tradition%3A%20Alchemist,of%20potions%20is%20time%20consuming.
 https://homebrewery.naturalcrit.com/share/HkfL8dBP4
-
-Wizard
-Spell slots regained fully on long rest
-Spell slots regained 1/day on short rest half wiz level rounded up
-
-Levelling (Wizard)
-Each time you gain a wizard level, add 2x wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots.
-
-On your adventures, you might find other spells that you can add to your spellbook.
-For each level of the spell, the process takes 2 hours and costs 50 gp.
-
-1: Spellcasting, 3x cantrips, Spell book - 6x 1st level spells.
-2: Arcane tradition (ALCHEMIST/BREWMASTER)
-3: 1/long rest can swap a cantrip with another, 2nd level spells
-4: ASI/Feat
-5: 3rd Level Spells, PB increase
-6: Arcane tradition (ALCHEMIST/BREWMASTER)
-7: 4th Level Spells
-8: ASI/Feat
-9: 5th Level Spells, PB increase
-10: Arcane tradition (ALCHEMIST/BREWMASTER)
+https://www.worldanvil.com/block/470269
