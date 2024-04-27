@@ -1,0 +1,7 @@
+Stories:
+
+Casting Fire damage spell:
+	You're going to be sunny side up.
+
+Intimidation:
+	
