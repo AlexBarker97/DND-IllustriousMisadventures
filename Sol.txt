@@ -1,97 +1,114 @@
-Sol, the Lionheart - Wizard
+Sol the Sunlit Chef
 
-Alchemist/Brewmaster
-	Alchemy & Brewing don't exist as Wizard subclasses, is DM okay with homebrewing something?
+Int 16 + 2
+Con 15 + 1
+Dex 14
+Cha 14
+Wis 13
+Str 10
 
-Either Triton or Human, can it be human variant? Down to DM
-	Age. Late 20s
-	Size. Medium, tall and built out (not a classic wizard)
-	Speed. 30ft
-	Languages. Plachian & Offalian 
+Race: Triton 
+	Age: 28
+	Height: 6ft 2
+	Size: Medium, tall and built out (not a classic wizard)
+	Speed: 30ft
 
-Class - Triton
-	Ability Score Increase. One by 2 and another by 1  OR  Three by 1
-	Amphibious. You can breathe air and water.
-	Control Air and Water. - 1st Fog Cloud, 3rd Gust of Wind, 5th Water Walk
+	Languages: Plachian & Offalian
+	Amphibious - You can breathe air and water.
+	Control Air and Water - 1st Fog Cloud, 3rd Gust of Wind, 5th Water Walk
 	Darkvision
 	Emissary of the Sea - Communicate simple ideas to any Beast, Elemental, or Monstrosity that has a swimming speed.
-	Guardian of the Depths - Resistance to cold damage.
+	WITHOUT COLD RES
+
+Class: Wizard
+	Arcane recovery
+	Short rest to regain spell slots 1/2 level rounded up
+
+Subclass: School of Culinary Arcana			https://www.reddit.com/r/UnearthedArcana/comments/cfd5qj/school_of_culinary_arcana_a_wizard_subclass_that/#lightbox
+	Cook meals in 10 mins (per meal) feeding 1 person each. (Assumed 1 person per day)
+	Temp HP equal to wiz level upon eating.
+	Consumer can use a BA to 'burn' the meal and get a benefit:
+		2 saves to have bonus to (1/2 wiz level) bonus reduced by 2 every subsequent use
+		Resistance to a type of damage, can once do a cone of damage 3d6 of that element
+		Speed increased by 10, jump doubled, can dash as a BA
+		Double bonus temp hp and burn for half wiz level's d8 hp
 
 Proficiencies
 	Armor: None
 	Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
 	Tools: None
 	Saving Throws: Intelligence, Wisdom
-	Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+	Skill Prof: Arcana, Medicine
 
 The Spell Book:
 	A server's book - small notebook that waitors/waitresses use
 
+Wields a trident (Trident of the Raging Solstice) - stats of a quarterstaff
+	Find on ship on wall - he decides to name it this for no other reason than brass confidence
+	Can get 3 fish over the stove on the trident
+
+He has 2 familiars (only 1 at a time)
+	A cat named Helios	- Land
+	A shimmering octopus named Apollo	- Water
+
+Brews ales with magical properties, prefers sun/heat based magic.
+
 Personality:
 	Full of pride and his confidence rarely falters
 	Consumes copious amount of alcohol and other alchemical drinks
+		Always sipping at various experimental drinks and potions (flavour not of any use)
+		Usually serves food to others, occassionally offers his brews aswell?
 	Takes an inhuman amount to get him drunk
-	Always sipping at various experimental drinks and potions (flavour not of any use)
 	He is very comfortable trading in markets and travelling the seas
+		Bonded to Barkeeps, Innkeepers and such for giving a helping hand and often copious consumption of their alcohol earning them great profits.
+
+	Will always try to do the right thing
+	My friends are my crew; we sink or float together.
+	Rich folk don't know the satisfaction of hard work.
+	I laugh heartily, feel deeply, and fear nothing.
+	I work hard; nature offers no handouts.
+	I dislike bargaining; state your price and mean it.
+	Good people make even the longest voyage bearable.
+	Do not fish the same spot twice in a row; suppress your greed, and nature will reward you.
+	No wave can move a soul hard at work.
+	I become depressed and anxious if I'm away from the sea too long.
 
 Background:
 	Fisher
-	Comes from a large trading port and has lived on or around boats for most of his life.
-	He noticed the giant lack of good scran on ships and found a massive gap in the market serving incredible food and booze to sailors and pirates as they travelled.
-	As he travelled he also begins experimenting with not just boozes but alchemical potions with arcane spells.
+		Harvest the Water
+			You gain advantage on ability checks made using fishing tackle. If you have access to a body of water that sustains marine life, you can maintain a moderate lifestyle while working as a fisher, and you can catch enough food to feed yourself and up to ten other people each day.
+		Fishing Tale
+			You can tell a compelling tale, whether tall or true, to impress and entertain others. Once a day, you can tell your story to willing listeners. At the DM's discretion, a number of those listeners become friendly toward you; this is not a magical effect, and continued amicability on their part depends on your actions. 
 
-Wizard
-	Spell slots regained fully on long rest
-	Spell slots regained 1/day on short rest half wiz level rounded up
+		Comes from a large trading port and has lived on or around boats for most of his life.
+		He noticed the giant lack of good scran on ships and found a massive gap in the market serving incredible food and booze to sailors and pirates as they travelled.
+		As he travelled he also begins experimenting with not just boozes but alchemical potions with arcane spells.
 
 Levelling (Wizard)
-	Each time you gain a wizard level, add 2x wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots.
+	Starting at 6 Spells in the spell book
+	Each time you gain a wizard level, add 2 wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots.
 
 	1: Spellcasting, 3x cantrips, Spell book - 6x 1st level spells.
-	2: Arcane tradition (ALCHEMIST/BREWMASTER)
+	2: Arcane tradition (School of Culinary Arcana)
 	3: 1/long rest can swap a cantrip with another, 2nd level spells
 	4: ASI/Feat
 	5: 3rd Level Spells, PB increase
-	6: Arcane tradition (ALCHEMIST/BREWMASTER)
+	6: Arcane tradition (School of Culinary Arcana)
 	7: 4th Level Spells
 	8: ASI/Feat
 	9: 5th Level Spells, PB increase
-	10: Arcane tradition (ALCHEMIST/BREWMASTER)
+	10: Arcane tradition (School of Culinary Arcana)
 
 On your adventures, you might find other spells that you can add to your spellbook.
 	For each level of the spell, the process takes 2 hours and costs 50 gp.
 
-Homebrew Arcane tradition (Brewmaster)
-	2nd level:
-		Brew arcane potions?
-		Brew cantrips for free?
-		Could mage armour be a cantrip in potion form?
-		Can he brew other general potions?
-			Weapon coatings?
-			Healing potions?
-		https://www.gmbinder.com/share/-Mx7iDagHOK6qYdt3yMx#:~:text=Arcane%20Tradition%3A%20Alchemist,of%20potions%20is%20time%20consuming
+/// CANNED? ////
 
-	6th level:
-		Effects of other people's potions on him?
-		Some benefit to drinking
+Brewmaster's kit
+	Poisoner's kit (but with tankards)
+	Includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.  
 
-Items:
-	You start with the following equipment, in addition to the equipment granted by your background:
-
-	The grill stick (find on ship on wall)
-
-	A component pouch
-	A spellbook
-
-	Could he have a backup spellbook with a much smaller list?
-	
-	"The grill stick"
-		Trident as a staff with trash stats
-		Can get 3 fish over the stove on the trident
-		
-	Brewmaster's kit
-		Poisoner's kit (but with tankards)
-		Includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+////////////////
 		
 Inspiration/Ideas;
 https://www.youtube.com/watch?v=umwRJaElqAw
@@ -101,8 +118,43 @@ https://www.worldanvil.com/block/470269
 
 Spells with monetary value will be a special ingredient to find instead
 
-What is his wish that he is chasing
+/// IMPORTANT TO DEFINE ///
 
-Will always try to do the right thing
+What is his wish that he is chasing???
+	
 
-16+2, 14, 13+1, 13, 10, 8
+///////////////////////////
+
+Interesting Food Spells
+	Magnificent Mansion
+	Heroes feast
+
+
+
+Unique Ability: 
+The Chef's Mastery:
+From many years of working with fire and heat, you have learned control over the most volatile element. You gain a number of Chef Points equal to your proficiency bonus. You regain all expended points on a long rest.
+By expending a point when using a spell you may do one of the following:
+Roll an extra 1d6 fire damage to the spell's damage (You must announce this before you make the attack roll)
+Wreath yourself in smoke, giving you +1 AC until the start of your next turn
+You may also expend a point to bathe yourself in a fiery light, giving you +2 to persuasion and intimidation for one minute.
+
+
+
+The Messy Peacock is quiet today. You have been coming here frequently in the last few weeks, hoping to find passage on a ship as a chef, longing for the feel of the open sea. Although you have easily ingratiated yourself with the locals, laughing and shaking hands as you enter, you feel a sense of frustration at the back of your mind. It has been close to a month and still you have not been able to find a worthy sea captain.
+The tavern is dark, dingy, lit by the glow of a hearth in the corner, but signs of wear are everywhere. Spider's webs nestle in the corners of the ceiling, and dirt is swept into piles underfoot. The other inhabitants of the inn are working men, for the most part, split off into groups and staring into glasses. You catch the eye of a newcomer, an old man wearing a curious suit of armour that seems to be moulded to his body. He sees you staring, and nods. You nod back, bemused by his big smile, and turn your attention back to the conversations about you, hoping to hear something about a new ship.
+As you contemplate, lost in thought and excited for the future, you hear the door slam open. Looking up, you are taken aback as one by one, fierce looking men with cutlasses and pistols shove their way inside. The tavern falls silent, and every eye turns towards the door as entering, with a curious limping gait, a short man with an eye-patch and a scowl walks in. He smirks, showing disgusting yellow teeth, some of which have clearly rotted and fallen out, and surveys the room.
+"Need me some hostages!" He announces to the world, and motions towards the scowling, grim workers. "Just need three of ya's." His grimace widens as he sees the barmaid, hiding behind the wooden counter. "Ye'll do, me pretty."
+You wait, watch to see what will happen, restless magic lurking at your fingertips, when suddenly the old man stands up.
+"I volunteer!" He shouts, and the room stirs in shock.
+You feel a big smile come across your face. Here is someone who is not afraid! Standing up, you roar "Good show my friend! I will join you! Are we not enough for you, pirate?"
+You eyeball the pirate captain, standing a full head and a half taller than him, and you see him shrink back in nervousness for a second, before his braggardly exterior returns. "Me name be Captain Groggo, and ye will not forget that" he says menacingly. You are already formulating a plan to save the maid, who is screaming as they carry her out, as they tie your hands together.
+While this happens, you hear a shout from the kitchen. "Oi cap'n! They got one of 'em automationtoms things! Shall we's bring it?"
+You hear a brief movement, then a loud clank, and four pirates emerge from the kitchen, carrying a limp automaton with them. Groggo turns to one of his men. "Bunch of freaks in this place. Sooner we get on the sea the better".
+He turns to you and grins his horrible grin. "You've volunteered to be sea monster bait, you stupid peasants. Enjoy your last moments while you can." He winks at you, and motions to his crew, who push all three of you outside.
+As you walk towards the pirate's ship, being shoved and cursed at, you nudge the barmaid, and barely whisper "be ready" into her ear. She stops struggling slightly, and seems to nod. You turn to the old man. "Time is running out, brave man. Tell me, can you cause a distraction?"
+"Just give me a signal" he replies, staring straight ahead.
+"Three... two... one," you count, and on "one", there is a huge explosion of colour and sound as chaos erupts around you, sparkling lights dazzle everyone, and pirates, blinded, curse and push into each other. Wasting no time, you summon the essence of fire into your hands, the first trick the chef learns, and burn the ropes around the maid's hand to a cinder.
+Untethered, she leaps like a gazelle and sprints away from you, screaming as she goes. A pirate draws his cutlass and dashes after her, but you stick your foot out and he goes down in a heap, covered in dirt. The captain spits as he regains his bearings, and turns to his crew.
+"Leave the girl!" He shouts, enraged. "Take these idiots and throw them into the hold! I'll deal with them later!"
+You smile, but it is quickly wiped from your face as a the man you tripped leers in your face and smacks you with the hilt of his cutlass. Others join the beating as you fall, and you slip into unconsciousness.
