@@ -1,0 +1,63 @@
+////////////////////////////////////////////////////////////////////////////////////////////////
+///// Quotes ///// Quotes ///// Quotes ///// Quotes ///// Quotes ///// Quotes ///// Quotes /////
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+Angry
+	The simmering rage of a disrespected chef is coming to a boil
+
+Defusing
+	Patience, young one. The best dishes take time... and a good scorching
+
+Missed spell
+	Don't get too comfortable.. I'm just pre-heating
+
+Casting fire spell:
+	You're going to be sunny side up
+	You seem a little undercooked
+	Looks like someone needs a taste of my signature dish
+	On the menu tonight: Roasted [Enemy Race]
+	Welcome to the inferno, you overcooked excuse for an appetizer
+	You, my friend, are just kindling
+	Dinner and a show! Tonight's special: You, served medium rare
+	Looks like someone ordered the 'Chef' special. Enjoy the burn
+
+Casting generic spell
+	Don't worry, this dish is complimentary...
+	This dish dances on the edge, a taste both tempting and utterly deranged
+	A single bite could rewrite fate, but fear not, the flavor's worth the wait
+	You should've ordered the halibut, it comes with a side of whoop-ass
+
+Against another fire caster
+	Cute. Now let me show you a real inferno
+	This pan's seen tougher flames than your pathetic fire magic. Try harder, you ...
+		Timid tea-light
+		Sputtering Ember
+		Dim Candle
+		Flickering Candle
+		Tepid Puddle
+
+Melee hit
+	This ain't a fish fork, ya landlubber
+	Three-pronged attack! And your side dish is defeat
+	This blade cuts more than vegetables. It severs the connection between arrogance and your hide
+	Get a skewer-load of this
+
+Upon Dealing devastating damage
+	The only thing getting served here is a piping hot beatdown
+	Bone appetit, matey
+
+Intimidation
+	You forgot your compliments to the chef
+	You choose, scrambled or beaten?
+	Dinner and a show! Tonight's special: You, served medium rare.
+
+Food is served
+	Tonight, we feast with the otherworldly, a taste so divine, it's almost unearthly
+	Each ingredient whispers with arcane power, a dish both delicious and imposing
+	A flick of the wrist, a swirl of the whisk, arcane energy flows, with a magical dish
+	The sauce simmers down, runes etched on the spoon, this dish is a spell, a culinary typhoon
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories /////
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+	To be added
