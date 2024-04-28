@@ -40,7 +40,7 @@ Proficiencies
 	Saving Throws: Intelligence, Wisdom
 	Skill Prof: Arcana, Medicine
 
-The Spell Book:
+The Spell Book
 	A server's book - small notebook that waitors/waitresses use
 
 Wields a trident (Trident of the Raging Solstice) - stats of a quarterstaff
@@ -53,7 +53,7 @@ He has 2 familiars (only 1 at a time)
 
 Brews ales with magical properties, prefers sun/heat based magic.
 
-Personality:
+Personality
 	Full of pride and his confidence rarely falters
 	Consumes copious amount of alcohol and other alchemical drinks
 		Always sipping at various experimental drinks and potions (flavour not of any use)
@@ -73,7 +73,7 @@ Personality:
 	No wave can move a soul hard at work.
 	I become depressed and anxious if I'm away from the sea too long.
 
-Background:
+Background
 	Fisher
 		Harvest the Water
 			You gain advantage on ability checks made using fishing tackle. If you have access to a body of water that sustains marine life, you can maintain a moderate lifestyle while working as a fisher, and you can catch enough food to feed yourself and up to ten other people each day.
@@ -131,7 +131,7 @@ Spells aiming for:
 		✔ Fire Bolt								Damage								FIRE Ranged spell attack - see quotes
 		✔ Control Flames						Roleplay							Images in fire for storytelling
 		✔ Create Bonfire						Roleplay							Bish Bash Bosh
-		✔ Smoke (Fog) Cloud - Triton Innate		Utility & Roleplay					Burnt food. Smoke instead of fog.
+		✔ Smoke (Steam) Cloud - Triton Innate	Utility & Roleplay					A hot humid steam that is hard to see through or out of
 		✘ Sword Burst							Roleplay							Cutlery around Sol
 	Level 1
 		✔ Alarm									Utility				Ritual			Egg timer going off
