@@ -1,7 +1,10 @@
 Stories:
+	To be added
 
 Casting Fire damage spell:
 	You're going to be sunny side up.
+	ToDo
 
 Intimidation:
 	You forgot your compliments to the chef
+	ToDo
