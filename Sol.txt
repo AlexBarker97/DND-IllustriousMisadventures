@@ -1,4 +1,4 @@
-Sol the Sunlit Chef
+﻿Sol the Sunlit Chef
 
 Int 16 + 2
 Con 15 + 1
@@ -48,7 +48,7 @@ Wields a trident (Trident of the Raging Solstice) - stats of a quarterstaff
 	Can get 3 fish over the stove on the trident
 
 He has 2 familiars (only 1 at a time)
-	A cat named Helios	- Land
+	A ginger cat named Helios	- Land
 	A shimmering octopus named Apollo	- Water
 
 Brews ales with magical properties, prefers sun/heat based magic.
@@ -122,22 +122,69 @@ Spells with monetary value will be a special ingredient to find instead
 
 What is his wish that he is chasing???
 	
-
 ///////////////////////////
 
-Interesting Food Spells
-	Magnificent Mansion
-	Heroes feast
 
+
+Spells aiming for:
+	Cantrip
+		✔ Fire Bolt								Damage								FIRE Ranged spell attack - see quotes
+		✔ Control Flames						Roleplay							Images in fire for storytelling
+		✔ Create Bonfire						Roleplay							Bish Bash Bosh
+		✔ Smoke (Fog) Cloud - Triton Innate		Utility & Roleplay					Burnt food. Smoke instead of fog.
+		✘ Sword Burst							Roleplay							Cutlery around Sol
+	Level 1
+		✔ Alarm									Utility				Ritual			Egg timer going off
+		✔ Find Familiar							Roleplay & Utility					Cat named Helios, Octopus named Apollo
+		✔ Comprehend Languages					Roleplay & Puzzle	Ritual			The global language of taste
+		✔ Silvery Barbs							Utility								Confidence check
+		✔ Burning Hands							Damage								Blowing hot ambers
+		✔ Shape Water							Roleplay & Puzzle					
+		✔ Mind Sliver							Damage								Intelligent wizard toying with low int pirates
+		✔ Magic Missile							Damage								You forgot your compliments to the chef
+		✘ Charm Person							Utility & Roleplay					They taste food so good, they become infatuated with you
+		✘ Chromatic Orb							Damage								Assign each element a different ingredient (experimental explosion)
+		✘ Grease								Roleplay & Utility					Cracked roleplay
+		✘ Ceremony								Roleplay & Utility	COST, Ritual	A feast worthy of any ceremony
+		✘ Hellish Rebuke						Roleplay & Damage					
+	Level 2
+		✘ Augury								Puzzle				COST, Ritual	Ask his culinary mentor
+		✘ Continual Flame						Roleplay			COST			Sweet thematic roleplay, always emitting light
+		✘ Pyrotechnics							Utility								Bright light of fire, and dark smoke for vision
+		✘ Scorching Ray							Damage								FIRE Ranged spell attack - see quotes
+		✘ Flaming Sphere						Damage								Solar Peak - Sol will often channel a minute sun into existence
+		✘ Aganazzar's Scorcher					Damage								A line of fire - "Can't handle the heat, stay out of the kitchen?"
+		✘ Dragon's Breath						Damage								Blowing hot ambers
+		✘ Misty Step							Utility								Blazing dash, nothing but embers and smoke remain
+		✘ Wither and Bloom						Damage & Heal						
+		✘ Tasha's Mind Whip						Damage & Utility					Intelligent wizard toying with low int pirates
+		✘ Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
+		✘ Vortex Warp							Save & Roleplay & Utility			
+	Level 3
+		✘ Fireball								Damage								Solar Peak - Sol will often channel a minute sun into existence, hurling it at enemies
+		✘ Tidal Wave							Damage & Utility & Roleplay			Great for thematic casting
+		✘ Create Food and Water					Utility & Roleplay					Change this to great food, not bland
+		✘ Water Breathing						Utility				Ritual			Could be very useful for the party, hands out a snack to each
+		✘ Ashardalon's Stride					Utility								Blazing dash, nothing but embers and smoke remain
+		✘ Flame Arrows							Damage & Roleplay					Set fire to someone's arrows
+		✘ Melf's Minute Meteors					Damage & Roleplay					Meatballs? Orbs of pure solar essence
+		✘ Counterspell							Utility								Confidence check
+		✘ Bestow Curse							Roleplay & Utility					You seem like somebody who doesn't leave a tip
+		✘ Fear									Utility & Roleplay					Confidence check
+		✘ Fly									Utility & Puzzle					Phoenix
+
+Interesting Food Spells (Scrolls which could be found?)
+	Magnificent Mansion		7th Level
+	Heroes feast			6th Level
 
 
 Unique Ability: 
 The Chef's Mastery:
-From many years of working with fire and heat, you have learned control over the most volatile element. You gain a number of Chef Points equal to your proficiency bonus. You regain all expended points on a long rest.
-By expending a point when using a spell you may do one of the following:
-Roll an extra 1d6 fire damage to the spell's damage (You must announce this before you make the attack roll)
-Wreath yourself in smoke, giving you +1 AC until the start of your next turn
-You may also expend a point to bathe yourself in a fiery light, giving you +2 to persuasion and intimidation for one minute.
+	From many years of working with fire and heat, you have learned control over the most volatile element. You gain a number of Chef Points equal to your proficiency bonus. You regain all expended points on a long rest.
+	By expending a point when using a spell you may do one of the following:
+		Roll an extra 1d6 fire damage to the spell's damage (You must announce this before you make the attack roll)
+		Wreath yourself in smoke, giving you +1 AC until the start of your next turn
+		You may also expend a point to bathe yourself in a fiery light, giving you +2 to persuasion and intimidation for one minute.
 
 
 
