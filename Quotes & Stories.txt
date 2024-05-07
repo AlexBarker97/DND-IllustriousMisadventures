@@ -5,13 +5,17 @@
 Angry
 	The simmering rage of a disrespected chef is coming to a boil
 
+Surprised
+	
+
 Defusing
 	Patience, young one. The best dishes take time... and a good scorching
 
 Missed spell
 	Don't get too comfortable.. I'm just pre-heating
+	Some prefer their food slow cooked...
 
-Casting fire spell:
+Casting fire spell
 	You're going to be sunny side up
 	You seem a little undercooked
 	Looks like someone needs a taste of my signature dish
@@ -20,6 +24,7 @@ Casting fire spell:
 	You, my friend, are just kindling
 	Dinner and a show! Tonight's special: You, served medium rare
 	Looks like someone ordered the 'Chef' special. Enjoy the burn
+	Time to turn up the heat
 
 Casting generic spell
 	Don't worry, this dish is complimentary...
@@ -36,6 +41,13 @@ Against another fire caster
 		Flickering Candle
 		Tepid Puddle
 
+Tempest Cleric comments	(Gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage)
+	
+
+Smoke Cloud
+	You must have burnt something.
+	Time for a good steaming
+
 Melee hit
 	This ain't a fish fork, ya landlubber
 	Three-pronged attack! And your side dish is defeat
@@ -50,12 +62,16 @@ Intimidation
 	You forgot your compliments to the chef
 	You choose, scrambled or beaten?
 	Dinner and a show! Tonight's special: You, served medium rare.
+	You shall be the grease at the bottom of my pan.
 
 Food is served
 	Tonight, we feast with the otherworldly, a taste so divine, it's almost unearthly
 	Each ingredient whispers with arcane power, a dish both delicious and imposing
 	A flick of the wrist, a swirl of the whisk, arcane energy flows, with a magical dish
 	The sauce simmers down, runes etched on the spoon, this dish is a spell, a culinary typhoon
+
+Wind & Fire
+	A strong wind carries a fire far
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories /////
