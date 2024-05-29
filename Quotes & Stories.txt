@@ -45,6 +45,7 @@ Against another fire caster
 
 Show of Confidence
 	To remain calm and collected is the earned right of the powerful.
+	Pardon me, I find it irksome to be looked down upon by someone smaller, I'm sure you can appreciate my dilemma.
 
 Taking Damage
 	That massage was pretty average. Needs work.
