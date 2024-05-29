@@ -16,6 +16,7 @@ Missed spell
 	Some prefer their food slow cooked...
 
 Casting fire spell
+	CRUEL SUN
 	You're going to be sunny side up
 	You seem a little undercooked
 	Looks like someone needs a taste of my signature dish
@@ -33,6 +34,7 @@ Casting generic spell
 	You should've ordered the halibut, it comes with a side of whoop-ass
 
 Against another fire caster
+	How interesting.. You are quite powerful... I would say you are second only to me.
 	Cute. Now let me show you a real inferno
 	This pan's seen tougher flames than your pathetic fire magic. Try harder, you ...
 		Timid tea-light
@@ -40,6 +42,12 @@ Against another fire caster
 		Dim Candle
 		Flickering Candle
 		Tepid Puddle
+
+Show of Confidence
+	To remain calm and collected is the earned right of the powerful.
+
+Taking Damage
+	That massage was pretty average. Needs work.
 
 Tempest Cleric comments	(Gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage)
 	
