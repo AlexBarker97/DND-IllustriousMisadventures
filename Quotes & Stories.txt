@@ -2,6 +2,21 @@
 ///// Quotes ///// Quotes ///// Quotes ///// Quotes ///// Quotes ///// Quotes ///// Quotes /////
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
+Compliment caster
+	That spell painted the air! Precise and powerful, just like a perfectly seasoned dish. Nice work!
+
+Compliment Siren
+	Your Glaive! You weave through enemies like a hot knife through butter!
+
+Compliment Chester
+	Mech magic? Now that's some seriously stuffed sorcery! You're packing a whole pot roast of power in there!
+
+Compliment Oracle
+	
+
+Compliment Alfred
+	
+
 Angry
 	The simmering rage of a disrespected chef is coming to a boil
 
@@ -20,7 +35,7 @@ Casting fire spell
 	You're going to be sunny side up
 	You seem a little undercooked
 	Looks like someone needs a taste of my signature dish
-	On the menu tonight: Roasted [Enemy Race]
+	On the menu tonight: Roasted [Enemy Race] (Scallywags)
 	Welcome to the inferno, you overcooked excuse for an appetizer
 	You, my friend, are just kindling
 	Dinner and a show! Tonight's special: You, served medium rare
@@ -32,6 +47,9 @@ Casting generic spell
 	This dish dances on the edge, a taste both tempting and utterly deranged
 	A single bite could rewrite fate, but fear not, the flavor's worth the wait
 	You should've ordered the halibut, it comes with a side of whoop-ass
+
+Wind & Fire
+	A strong wind carries a fire far
 
 Against another fire caster
 	How interesting.. You are quite powerful... I would say you are second only to me.
@@ -45,13 +63,14 @@ Against another fire caster
 
 Show of Confidence
 	To remain calm and collected is the earned right of the powerful.
-	Pardon me, I find it irksome to be looked down upon by someone smaller, I'm sure you can appreciate my dilemma.
+	Pardon me, I find it irksome to be looked down upon by someone smaller.
 
-Taking Damage
+Insult General
+	You reek worse than a kraken's armpit after a long nap! Even my fire magic can't mask that!
+	Sword a bit dull? Maybe try a hot meal to fire you up!
+
+Sol Takes Damage
 	That massage was pretty average. Needs work.
-
-Tempest Cleric comments	(Gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage)
-	
 
 Smoke Cloud
 	You must have burnt something.
@@ -79,10 +98,28 @@ Food is served
 	A flick of the wrist, a swirl of the whisk, arcane energy flows, with a magical dish
 	The sauce simmers down, runes etched on the spoon, this dish is a spell, a culinary typhoon
 
-Wind & Fire
-	A strong wind carries a fire far
-
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories /////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
-	To be added
+Let me tell you of the "Salty Wench", the Moonstone Shrooms and my beloved Dream Stew, which led me on my calling in life.
+
+Part 1:
+	I once travelled on the infamously rickety "Salty Wench", who has half-sunk two times in her life.
+	Her crew were wary of any fire, and especially magic, yet they knew me as the port chef with unwavering confidence and the heart of a sunbird. After tasting my meals, they reluctantly invited me onboard. There I would conjure heat to cook and calm the souls of in-experienced pirates with my dancing flames during storms.
+
+	Mirela, was a squat Halfling who sailed onboard the "Salty Wench". She had a nose for rare ingredients. One day she burst into my pristine kitchen, a frantic glint in her eyes. She excitedly told me of the Whisperwind Isles! And how sailors had sighted Moonstone Shrooms – the key to the mythical Dream Stew!
+	
+	For those who do not know, Dream Stew grants prophetic visions! The allure was undeniable. My stews were legendary, but stew allowing prophet like visions. Now that would be the perfect meal! Mirela and I would speak to barkeeps and adventurers at the ports around to see if any ships were to sail to the Whisperwind Isles. Unfortunately, after months of searching, no luck was had.
+
+Part 2:
+	One day on the "Salty Wench", we were caught in a freak whirlpool, sailors spoke of territorial krakens guarding an island, but my captain insisted we find the treasure that they must behold. I was no fighter back then, but my cooking was already at an undeniably splendid level. Dodging the worst of the whirlpools and with a well-timed (and strategically spicy) curry bomb, we finally reached the guarded island, a shimmering oasis shrouded in perpetual twilight. It was only after we noticed the never-ending whispers of the air that Mirela and I knew that we had made it. We were in the Whisperwind Isles.
+
+	Finding the Moonstone Shrooms proved trickier than getting to the island. Luminescent sprites had hidden the mushrooms to protect them. After beguiling the sprites with more undeniably incredible stories and my modest, friendly demeanor, I befriended the sprites, sharing a specially spiced honey cake I'd whipped up on the journey.  Impressed by my talents, the sprites led me to a hidden grove, where the moonstone shrooms glowed faintly, like moonlight itself.
+	
+Part 3:
+	Back on the ship, the Dream Stew bubbled in the pot, a symphony of aromas filling the air. The first spoonful sent me into a vision – a kaleidoscope of vibrant images, a cryptic map leading to a hidden treasure. Mirela, with a nervous giggle, took a sip. Her vision was simpler – a vision of a delicious apple pie, perfectly golden brown and steaming.
+
+	At first, I was disappointed, but over the years this melted amusement, like a chocolate bomb. Maybe the Dream Stew wasn't perfect after all, but it was certainly an adventure. And after all, there was always room for a good apple pie after a successful, spice-filled quest.
+
+	Perhaps just one Stew isn't the answer, perhaps my talents must go on to create the perfect cookbook.
+

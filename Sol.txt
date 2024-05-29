@@ -21,17 +21,23 @@ Race: Triton
 	WITHOUT COLD RES
 
 Class: Wizard
-	Arcane recovery
+Arcane Recovery:
 	Short rest to regain spell slots 1/2 level rounded up
+	
+Arcane Tradition (Subclass): School of Culinary Arcana	
+https://www.reddit.com/r/UnearthedArcana/comments/cfd5qj/school_of_culinary_arcana_a_wizard_subclass_that/#lightbox
+	The Best of Two Worlds
+		Level 2, proficiency in cook's utensils, cooking time is halved.
 
-Subclass: School of Culinary Arcana			https://www.reddit.com/r/UnearthedArcana/comments/cfd5qj/school_of_culinary_arcana_a_wizard_subclass_that/#lightbox
-	Cook meals in 10 mins (per meal) feeding 1 person each. (Assumed 1 person per day)
-	Temp HP equal to wiz level upon eating.
-	Consumer can use a BA to 'burn' the meal and get a benefit:
-		2 saves to have bonus to (1/2 wiz level) bonus reduced by 2 every subsequent use
-		Resistance to a type of damage, can once do a cone of damage 3d6 of that element
-		Speed increased by 10, jump doubled, can dash as a BA
-		Double bonus temp hp and burn for half wiz level's d8 hp
+	Magical Meals
+		10 minutes per person being fed (medium or smaller).
+		Lasts for 8 hours after being eaten.
+		The consumer gains Temp HP equal to your Wizard Level.
+		The user can use a bonus action to "burn" the meal in their stomach, granting them a more powerful benefit for 1 minute. Options Are:
+			Choose 2 abilities (Str or Dex or Con) AND (Int or Wis or Cha). These have a bonus to (1/2 wiz level) for the duration, bonus decreasing by 2 every subsequent use.
+			Resistance to a type of damage AND as an action can do a cone of damage 3d6 of that element once. Improves at level 5, 7, 9, 11...
+			Speed increased by 10, jump doubled, can dash as a Bonus Action.
+			Double bonus temp hp and burn for half wiz level's d8 hp.
 
 Proficiencies
 	Armor: None
@@ -52,6 +58,9 @@ He has 2 familiars (only 1 at a time)
 	A shimmering octopus named Apollo	- Water
 
 Brews ales with magical properties, prefers sun/heat based magic.
+
+What is his wish that he is chasing:
+	Create the perfect cookbook.
 
 Personality
 	Full of pride and his confidence rarely falters
@@ -85,46 +94,32 @@ Background
 		As he travelled he also begins experimenting with not just boozes but alchemical potions with arcane spells.
 
 Levelling (Wizard)
-	Starting at 6 Spells in the spell book
-	Each time you gain a wizard level, add 2 wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots.
+	Each of the spells added to your spellbook must be of a level for which you have spell slots.
 
-	1: Spellcasting, 3x cantrips, Spell book - 6x 1st level spells.
-	2: Arcane tradition (School of Culinary Arcana)
-	3: 1/long rest can swap a cantrip with another, 2nd level spells
-	4: ASI/Feat
-	5: 3rd Level Spells, PB increase
-	6: Arcane tradition (School of Culinary Arcana)
-	7: 4th Level Spells
-	8: ASI/Feat
-	9: 5th Level Spells, PB increase
-	10: Arcane tradition (School of Culinary Arcana)
+	1: 1st level spells, Spellbook + 6, Cantrip + 3, Arcane recovery
+	2: Spellbook + 2, Arcane tradition
+	3: 2nd level spells, Spellbook + 2, LR: Swap a cantrip with another
+	4: Spellbook + 2, Cantrip + 1, ASI/Feat
+	5: 3rd Level Spells, Spellbook + 2, PB + 1
+	6: Spellbook + 2, Arcane tradition
+	7: 4th Level Spells, Spellbook + 2
+	8: Spellbook + 2, ASI/Feat
+	9: 5th Level Spells, Spellbook + 2, PB + 1
+   10: Spellbook + 2, Cantrip + 1, Arcane tradition
+
+//////////////// Possible Item? ////////////////
+Brewmaster's kit
+	Poisoner's kit (but with tankards)
+	Includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+		
+/////////////////////////////////////////////////////////////////////
+/// SPELLS /// SPELLS /// SPELLS /// SPELLS /// SPELLS /// SPELLS ///
+/////////////////////////////////////////////////////////////////////
 
 On your adventures, you might find other spells that you can add to your spellbook.
 	For each level of the spell, the process takes 2 hours and costs 50 gp.
 
-/// CANNED? ////
-
-Brewmaster's kit
-	Poisoner's kit (but with tankards)
-	Includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.  
-
-////////////////
-		
-Inspiration/Ideas;
-https://www.youtube.com/watch?v=umwRJaElqAw
-https://www.gmbinder.com/share/-Mx7iDagHOK6qYdt3yMx#:~:text=Arcane%20Tradition%3A%20Alchemist,of%20potions%20is%20time%20consuming.
-https://homebrewery.naturalcrit.com/share/HkfL8dBP4
-https://www.worldanvil.com/block/470269
-
 Spells with monetary value will be a special ingredient to find instead
-
-/// IMPORTANT TO DEFINE ///
-
-What is his wish that he is chasing???
-	
-///////////////////////////
-
-
 
 Spells aiming for:
 	Cantrip
@@ -149,10 +144,10 @@ Spells aiming for:
 		✘ Hellish Rebuke						Roleplay & Damage					
 	Level 2
 		✘ Augury								Puzzle				COST, Ritual	Ask his culinary mentor
-		✘ Continual Flame						Roleplay			COST			Sweet thematic roleplay, always emitting light
+		✔ Continual Flame						Roleplay			COST			Sweet thematic roleplay, always emitting light
 		✘ Pyrotechnics							Utility								Bright light of fire, and dark smoke for vision
 		✘ Scorching Ray							Damage								FIRE Ranged spell attack - see quotes
-		✘ Flaming Sphere						Damage								Solar Peak - Sol will often channel a minute sun into existence
+		✔ Flaming Sphere						Damage								Solar Peak - Sol will often channel a minute sun into existence
 		✘ Aganazzar's Scorcher					Damage								A line of fire - "Can't handle the heat, stay out of the kitchen?"
 		✘ Dragon's Breath						Damage								Blowing hot ambers
 		✘ Misty Step							Utility								Blazing dash, nothing but embers and smoke remain
@@ -174,19 +169,24 @@ Spells aiming for:
 		✘ Fly									Utility & Puzzle					Phoenix
 
 Interesting Food Spells (Scrolls which could be found?)
-	Magnificent Mansion		7th Level
 	Heroes feast			6th Level
+	Magnificent Mansion		7th Level
 
-
-Unique Ability: 
-The Chef's Mastery:
+/////////////////////////////////////////////
+/// Unique Ability  :  The Chef's Mastery ///
+/////////////////////////////////////////////
 	From many years of working with fire and heat, you have learned control over the most volatile element. You gain a number of Chef Points equal to your proficiency bonus. You regain all expended points on a long rest.
 	By expending a point when using a spell you may do one of the following:
+		
 		Roll an extra 1d6 fire damage to the spell's damage (You must announce this before you make the attack roll)
+		
 		Wreath yourself in smoke, giving you +1 AC until the start of your next turn
+		
 		You may also expend a point to bathe yourself in a fiery light, giving you +2 to persuasion and intimidation for one minute.
 
-
+/////////////
+/// INTRO ///
+/////////////
 
 The Messy Peacock is quiet today. You have been coming here frequently in the last few weeks, hoping to find passage on a ship as a chef, longing for the feel of the open sea. Although you have easily ingratiated yourself with the locals, laughing and shaking hands as you enter, you feel a sense of frustration at the back of your mind. It has been close to a month and still you have not been able to find a worthy sea captain.
 The tavern is dark, dingy, lit by the glow of a hearth in the corner, but signs of wear are everywhere. Spider's webs nestle in the corners of the ceiling, and dirt is swept into piles underfoot. The other inhabitants of the inn are working men, for the most part, split off into groups and staring into glasses. You catch the eye of a newcomer, an old man wearing a curious suit of armour that seems to be moulded to his body. He sees you staring, and nods. You nod back, bemused by his big smile, and turn your attention back to the conversations about you, hoping to hear something about a new ship.
@@ -205,3 +205,13 @@ As you walk towards the pirate's ship, being shoved and cursed at, you nudge the
 Untethered, she leaps like a gazelle and sprints away from you, screaming as she goes. A pirate draws his cutlass and dashes after her, but you stick your foot out and he goes down in a heap, covered in dirt. The captain spits as he regains his bearings, and turns to his crew.
 "Leave the girl!" He shouts, enraged. "Take these idiots and throw them into the hold! I'll deal with them later!"
 You smile, but it is quickly wiped from your face as a the man you tripped leers in your face and smacks you with the hilt of his cutlass. Others join the beating as you fall, and you slip into unconsciousness.
+
+Intro (NOT COMPLETE)
+	Sol, is a 6ft 2 towering chef who commands both kitchen and the flames that feed it.
+	Sol stands with an unshakable confidence. His skin pale blue of a glacier at dusk, held the faintest shimmer, hinting at the magic coursing through him. A mane of fiery red hair, the color of a perfectly seared steak, framed his face, each strand seemingly alive with the flickering heat of his magic.
+
+Inspiration/Ideas;
+https://www.youtube.com/watch?v=umwRJaElqAw
+https://www.gmbinder.com/share/-Mx7iDagHOK6qYdt3yMx#:~:text=Arcane%20Tradition%3A%20Alchemist,of%20potions%20is%20time%20consuming.
+https://homebrewery.naturalcrit.com/share/HkfL8dBP4
+https://www.worldanvil.com/block/470269
