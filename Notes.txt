@@ -9,8 +9,8 @@ Treasure is thought to be lost forever.
 Level 2
 
 Chester Shumacker
+	Wizard
 	Old man with power armour
-	Artificier?
 	Peeping Chester
 	90-something years old
 	Running a shoe shop, worked hard all his life
@@ -31,6 +31,7 @@ Siren Silver - Real name is Adonis Thundercock Siren Silver
 	Then disaster struck, doesn't want to comment right now
 
 Aluminium Fred - Alfred
+	Artificier
 	Sentient automaton
 	Pot boy
 
