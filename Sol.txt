@@ -156,7 +156,7 @@ Spells aiming for:
 		✘ Wither and Bloom						Damage & Heal						
 		✘ Tasha's Mind Whip						Damage & Utility					Intelligent wizard toying with low int pirates
 		✘ Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
-		✘ Vortex Warp							Save & Roleplay & Utility			
+		✘ Vortex Warp							Save & Roleplay & Utility
 	Level 3
 		✘ Fireball								Damage								Solar Peak - Sol will often channel a minute sun into existence, hurling it at enemies
 		✘ Tidal Wave							Damage & Utility & Roleplay			Great for thematic casting
