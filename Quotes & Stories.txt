@@ -66,8 +66,11 @@ Show of Confidence
 	Pardon me, I find it irksome to be looked down upon by someone smaller.
 
 Insult General
-	You reek worse than a kraken's armpit after a long nap! Even my fire magic can't mask that!
-	Sword a bit dull? Maybe try a hot meal to fire you up!
+	You reek worse than a kraken's armpit!
+	Even my fire can't mask your stench!
+	Sword a bit dull?
+	Maybe try a hot meal to fire you up!
+	I've got bigger fish to fry than this.
 
 Sol Takes Damage
 	That massage was pretty average. Needs work.
@@ -97,6 +100,14 @@ Food is served
 	Each ingredient whispers with arcane power, a dish both delicious and imposing
 	A flick of the wrist, a swirl of the whisk, arcane energy flows, with a magical dish
 	The sauce simmers down, runes etched on the spoon, this dish is a spell, a culinary typhoon
+
+
+
+
+
+
+
+
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories /////

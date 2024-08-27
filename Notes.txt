@@ -112,8 +112,6 @@ Competition Prep
 
 	Nevermind catch and cook, todays all about Sol and Seabass
 
-
-
 	Descriptions
 		Sol steps to the table, a light-hearted confidence across his face, his skin already eminating glowing ambers.
 		
@@ -141,84 +139,93 @@ Competition Prep
 
 		In one final display of showvoting Sol, the Sunlit Chef.. in one action manipulating the flames around him, extinguishes the hearth and his own embers now turn to flames as if he has engulfed the hearth's energy.
 
-		Sol Wins:
-			Inspiration
-			+100g
-			Druid mushroom  - grants a use of wildshape into spider / wolf / bear for the user when consumed in a meal. Can only be used for a single person's meal.
+	Sol Wins:
+		Inspiration
+		+100g
+		Druid mushroom  - grants a use of wildshape into spider / wolf / bear for the user when consumed in a meal. Can only be used for a single person's meal.
 
-		Cultist tells Oracle: 'They' murdered the priest
-		Black smokey face "We are coming for you Oracle, you won't have long" Voice of the highest priest of the raging tempest, the only man above Oracle in the hierarchy, who has only to lose in a change in order.
-		Enormous dragon head in the center (as an altar) of the church in the visage of Asiron
-		Vision, clouds above and around, Old asironian: "Seek Mousengard, and you will be rewarded".
+	Cultist tells Oracle: 'They' murdered the priest
+	Black smokey face "We are coming for you Oracle, you won't have long" Voice of the highest priest of the raging tempest, the only man above Oracle in the hierarchy, who has only to lose in a change in order.
+	Enormous dragon head in the center (as an altar) of the church in the visage of Asiron
+	Vision, clouds above and around, Old asironian: "Seek Mousengard, and you will be rewarded".
 
-		Sandekker's Workshop
-		Siren looking for an alternative way into Sandekkers house?
+	Sandekker's Workshop
+	Siren looking for an alternative way into Sandekkers house?
 
-		Sandekker eratic, not the man Al-Fred ahs heard about
-		Chester put him to sleep
-		Trap door with mirror in basement
+	Sandekker eratic, not the man Al-Fred ahs heard about
+	Chester put him to sleep
+	Trap door with mirror in basement
 
-		Parrot leads Chester to Sandekker's, pulling him inside.
+	Parrot leads Chester to Sandekker's, pulling him inside.
 
-		Empty room
+	Empty room
 
-		Jims Coin Scroll
-		Mending Scroll
+	Jims Coin Scroll
+	Mending Scroll
 
-		Riddle:
+	Riddle:
 
-		My first is in ocean, but never in sea.
-		My next is in wasp, but not in a bee.
-		My last is in glider and also in flight.
-		My whole is a creature that hunts through the night.
+	My first is in ocean, but never in sea.
+	My next is in wasp, but not in a bee.
+	My last is in glider and also in flight.
+	My whole is a creature that hunts through the night.
 
-		OWL
+	OWL
 
-		Small room with
-			A small mechanical own
-			Long thin cannon attachment fits onto Al-Freds arm
-			Some notes explaining how this attachment launches a helpful owl
+	Small room with
+		A small mechanical own
+		Long thin cannon attachment fits onto Al-Freds arm
+		Some notes explaining how this attachment launches a helpful owl
 
-		Enlarge-Reduce Scroll
+	Enlarge-Reduce Scroll
 		
-		Kash - Goddess of change on the walls (Fresco)
+	Kash - Goddess of change on the walls (Fresco)
 
-		5 ray of frost scrolls
-			1 Chester
-			1 Alfred
-			3 Sol
+	5 ray of frost scrolls
+		1 Chester
+		1 Alfred
+		3 Sol
 
-		Water barrel in the corner, with a small bucket Al-Fred pours water onto the ground, a green shoot begins to grow from it in the center of the room.
+	Water barrel in the corner, with a small bucket Al-Fred pours water onto the ground, a green shoot begins to grow from it in the center of the room.
 
-		Blue
-		Red
-		Orange
-		White
+	Blue
+	Red
+	Orange
+	White
 
-		-1 ray of frost
+	-1 ray of frost
 
-		Al-Fred Lore
-			
+	Al-Fred Lore
+		???
 
-		Door in front
-			Flawless
+	Door in front
+		Flawless
 
-		Door to the lefr
-			3 lit torches
+	Door to the left
+		3 lit torches
 
-		Puzzle solved, not floorlessly
+	Puzzle solved, not floorlessly
 
-		Room with a mimic, found on the second attempt as a plant pot in the corner
+	Room with a mimic, found on the second attempt as a plant pot in the corner
 
-		Grease scroll found
+	Grease scroll found
 
-		Siren takes some wine,
-			AlFred
-			Siren
-			Sol
-			Drink some
+	From mimic kill
+		2 bottles purple liquid - adrina chrome - adrenaline shot in combat
+		243gold
+		Ring with gemstone
 
-		From mimic kill
-			2 bottles purple liquid - adrina chrome - adrenaline shot in combat
-			243gold
-			Ring with gemstone
+	Eyes of Helios see terrance 
+		
+	As the room lights up, we see 2 spiders
+
+	Spider Fight
+		+1 Leather Armour LOOT
+
+	Kestulan Fight
+
+	Sandekker kneeling, an adolescent siren with wings behind back, with druid
+
+	Siren plotting with Sandekker
+
+	Siren (party member) reveals that Sirens took his son and send him into a range
