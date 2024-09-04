@@ -130,6 +130,8 @@ Spells aiming for:
 		✔ Create Bonfire						Roleplay							Bish Bash Bosh
 		✔ Smoke (Steam) Cloud - Triton Innate	Utility & Roleplay					A hot humid steam that is hard to see through or out of
 		✘ Sword Burst							Roleplay							Cutlery around Sol
+		✘S	Ray of frost						
+		✘S	Mending 
 	Level 1
 		✔ Alarm									Utility				Ritual			Egg timer going off
 		✔ Find Familiar							Roleplay & Utility					Cat named Helios, Octopus named Apollo
@@ -141,7 +143,7 @@ Spells aiming for:
 		✔ Magic Missile							Damage								You forgot your compliments to the chef
 		✘ Charm Person							Utility & Roleplay					They taste food so good, they become infatuated with you
 		✘ Chromatic Orb							Damage								Assign each element a different ingredient (experimental explosion)
-		✘ Grease								Roleplay & Utility					Cracked roleplay
+		✘S Grease								Roleplay & Utility					Cracked roleplay
 		✘ Ceremony								Roleplay & Utility	COST, Ritual	A feast worthy of any ceremony
 		✘ Hellish Rebuke						Roleplay & Damage					
 	Level 2
@@ -155,7 +157,7 @@ Spells aiming for:
 		✘ Misty Step							Utility								Blazing dash, nothing but embers and smoke remain
 		✘ Wither and Bloom						Damage & Heal						
 		✘ Tasha's Mind Whip						Damage & Utility					Intelligent wizard toying with low int pirates
-		✘ Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
+		✘S Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
 		✘ Vortex Warp							Save & Roleplay & Utility
 	Level 3
 		✘ Fireball								Damage								Solar Peak - Sol will often channel a minute sun into existence, hurling it at enemies
