@@ -99,15 +99,23 @@ Levelling (Wizard)
 	Each of the spells added to your spellbook must be of a level for which you have spell slots.
 
 	1: 1st level spells, Spellbook + 6, Cantrip + 3, Arcane recovery
+		18 INT (5 prepared spells)
 	2: Spellbook + 2, Arcane tradition
+		+1 prepared spell (6)
 	3: 2nd level spells, Spellbook + 2, LR: Swap a cantrip with another
+		+1 prepared spell (7)
 	4: Spellbook + 2, Cantrip + 1, ASI/Feat
-	5: 3rd Level Spells, Spellbook + 2, PB + 1
+		ASI +2 INT (20) -> + 1 prepared spell (8)
+		+1 prepared spell (9)
+		cantrip formulas: +lightning lure -bonfire
+		+ Mind Sliver
+		+ Scorching ray, + Mind Thrust
+	5: 3rd Level Spells, Spellbook + 2, PB + 1, Cantrips Stronger
 	6: Spellbook + 2, Arcane tradition
 	7: 4th Level Spells, Spellbook + 2
 	8: Spellbook + 2, ASI/Feat
 	9: 5th Level Spells, Spellbook + 2, PB + 1
-   10: Spellbook + 2, Cantrip + 1, Arcane tradition
+   	10: Spellbook + 2, Cantrip + 1, Arcane tradition
 
 //////////////// Possible Item? ////////////////
 Brewmaster's kit
@@ -131,7 +139,8 @@ Spells aiming for:
 		✔ Smoke (Steam) Cloud - Triton Innate	Utility & Roleplay					A hot humid steam that is hard to see through or out of
 		✘ Sword Burst							Roleplay							Cutlery around Sol
 		✘S	Ray of frost						
-		✘S	Mending 
+		✘S	Mending
+		✔ Mind Sliver							Damage								Intelligent wizard toying with low int pirates
 	Level 1
 		✔ Alarm									Utility				Ritual			Egg timer going off
 		✔ Find Familiar							Roleplay & Utility					Cat named Helios, Octopus named Apollo
@@ -139,18 +148,19 @@ Spells aiming for:
 		✔ Silvery Barbs							Utility								Confidence check
 		✔ Burning Hands							Damage								Blowing hot ambers
 		✔ Shape Water							Roleplay & Puzzle					
-		✔ Mind Sliver							Damage								Intelligent wizard toying with low int pirates
 		✔ Magic Missile							Damage								You forgot your compliments to the chef
 		✘ Charm Person							Utility & Roleplay					They taste food so good, they become infatuated with you
 		✘ Chromatic Orb							Damage								Assign each element a different ingredient (experimental explosion)
 		✘S Grease								Roleplay & Utility					Cracked roleplay
-		✘ Ceremony								Roleplay & Utility	COST, Ritual	A feast worthy of any ceremony
-		✘ Hellish Rebuke						Roleplay & Damage					
+		✘ Ceremony								Roleplay & Utility		COST, Ritual	A feast worthy of any ceremony (not wiz spell)
+		✘ Hellish Rebuke						Roleplay & Damage					(not a wiz spell!)				
+		✘ Feather Fall							Utility							voluptuous bao buns begin to appear within the air, slowing your descent
+		✘ Arcane Lock							Utility							not letting scallywags like Terrance go again
 	Level 2
 		✘ Augury								Puzzle				COST, Ritual	Ask his culinary mentor
 		✔ Continual Flame						Roleplay			COST			Sweet thematic roleplay, always emitting light
 		✘ Pyrotechnics							Utility								Bright light of fire, and dark smoke for vision
-		✘ Scorching Ray							Damage								FIRE Ranged spell attack - see quotes
+		✔ Scorching Ray							Damage								FIRE Ranged spell attack - see quotes
 		✔ Flaming Sphere						Damage								Solar Peak - Sol will often channel a minute sun into existence
 		✘ Aganazzar's Scorcher					Damage								A line of fire - "Can't handle the heat, stay out of the kitchen?"
 		✘ Dragon's Breath						Damage								Blowing hot ambers
@@ -159,6 +169,7 @@ Spells aiming for:
 		✘ Tasha's Mind Whip						Damage & Utility					Intelligent wizard toying with low int pirates
 		✘S Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
 		✘ Vortex Warp							Save & Roleplay & Utility
+		✔ Mind Thrust (UA)					Damage & Utility				Dealing with Big Bad (BonusAct so this + cantrip)
 	Level 3
 		✘ Fireball								Damage								Solar Peak - Sol will often channel a minute sun into existence, hurling it at enemies
 		✘ Tidal Wave							Damage & Utility & Roleplay			Great for thematic casting
