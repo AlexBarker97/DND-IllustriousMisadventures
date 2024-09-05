@@ -138,8 +138,8 @@ Spells aiming for:
 		✔ Create Bonfire						Roleplay							Bish Bash Bosh
 		✔ Smoke (Steam) Cloud - Triton Innate	Utility & Roleplay					A hot humid steam that is hard to see through or out of
 		✘ Sword Burst							Roleplay							Cutlery around Sol
-		✘S	Ray of frost						
-		✘S	Mending
+		✘ Ray of frost						
+		✘ Mending
 		✔ Mind Sliver							Damage								Intelligent wizard toying with low int pirates
 	Level 1
 		✔ Alarm									Utility				Ritual			Egg timer going off
@@ -151,7 +151,7 @@ Spells aiming for:
 		✔ Magic Missile							Damage								You forgot your compliments to the chef
 		✘ Charm Person							Utility & Roleplay					They taste food so good, they become infatuated with you
 		✘ Chromatic Orb							Damage								Assign each element a different ingredient (experimental explosion)
-		✘S Grease								Roleplay & Utility					Cracked roleplay
+		✔ Grease								Roleplay & Utility					Cracked roleplay
 		✘ Ceremony								Roleplay & Utility		COST, Ritual	A feast worthy of any ceremony (not wiz spell)
 		✘ Hellish Rebuke						Roleplay & Damage					(not a wiz spell!)				
 		✘ Feather Fall							Utility							voluptuous bao buns begin to appear within the air, slowing your descent
@@ -167,7 +167,7 @@ Spells aiming for:
 		✘ Misty Step							Utility								Blazing dash, nothing but embers and smoke remain
 		✘ Wither and Bloom						Damage & Heal						
 		✘ Tasha's Mind Whip						Damage & Utility					Intelligent wizard toying with low int pirates
-		✘S Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
+		✔ Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
 		✘ Vortex Warp							Save & Roleplay & Utility
 		✔ Mind Thrust (UA)					Damage & Utility				Dealing with Big Bad (BonusAct so this + cantrip)
 	Level 3

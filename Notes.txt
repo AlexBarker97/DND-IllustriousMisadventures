@@ -160,8 +160,8 @@ Competition Prep
 
 	Empty room
 
-	Jims Coin Scroll
-	Mending Scroll
+	SCROLL FOUND: Jims Coin
+	SCROLL FOUND: Mending
 
 	Riddle:
 
@@ -169,34 +169,32 @@ Competition Prep
 	My next is in wasp, but not in a bee.
 	My last is in glider and also in flight.
 	My whole is a creature that hunts through the night.
-
-	OWL
+		Answer OWL
 
 	Small room with
 		A small mechanical own
 		Long thin cannon attachment fits onto Al-Freds arm
 		Some notes explaining how this attachment launches a helpful owl
 
-	Enlarge-Reduce Scroll
+	SCROLL FOUND: Enlarge-Reduce
 		
 	Kash - Goddess of change on the walls (Fresco)
 
-	5 ray of frost scrolls
+	SCROLL FOUND: 5x Ray of frost
 		1 Chester
 		1 Alfred
 		3 Sol
 
 	Water barrel in the corner, with a small bucket Al-Fred pours water onto the ground, a green shoot begins to grow from it in the center of the room.
 
-	Blue
-	Red
-	Orange
-	White
+	Blue	water
+	Red		fire?
+	Orange	?
+	White	frost
 
 	-1 ray of frost
 
-	Al-Fred Lore
-		???
+	Al-Fred ready to share Lore / Background / his past
 
 	Door in front
 		Flawless
@@ -208,24 +206,79 @@ Competition Prep
 
 	Room with a mimic, found on the second attempt as a plant pot in the corner
 
-	Grease scroll found
+	SCROLL FOUND: Grease
 
 	From mimic kill
-		2 bottles purple liquid - adrina chrome - adrenaline shot in combat
-		243gold
-		Ring with gemstone
+		2 bottles purple liquid - Adrenochrome - adrenaline shot in combat
+		243 gold
+			How was this shared?
+		Ring with gemstone - prismatic ring
+			The metal of this ring is streaked with a rainbow pattern that shimmers and shifts around constantly.
+			As an action, you may whisper one of the following words to the ring. All weapon attacks you make have their damage type replaced with the damage type you stated for one minute. You may not use the ring again until the next dawn.
+			The possible damage types are Fire, Cold, Lightning, Poison, Necrotic, and Radiant.
 
-	Eyes of Helios see terrance 
+	Eyes of Helios see terrance escaping 
 		
 	As the room lights up, we see 2 spiders
 
 	Spider Fight
-		+1 Leather Armour LOOT
+		LOOT: Sol: +1 Leather Armour
 
 	Kestulan Fight
 
-	Sandekker kneeling, an adolescent siren with wings behind back, with druid
+	2 paths -> Main cave opens to bossfight, other underwater route found
 
-	Siren plotting with Sandekker
+	Main cave, Siren Bossfight
+		Sandekker kneeling, an adolescent siren with wings behind back, with druid
 
-	Siren (party member) reveals that Sirens took his son and send him into a range
+		Siren plotting with Sandekker?
+
+		LORE / BACKGROUND: Siren (party member) reveals that Sirens took his son and send him into a range
+
+		After defeating Siren, the party finds the (next entry?) of Thadimus Mousengard's Journal
+
+		Terrance leads the marines to the party
+		Lt. Axton leads the marines and comes to take the page
+		The party resists but their efforts are futile and they are weak from the Siren fight
+
+		Axton steals the page
+
+		AL:FRED Sandekker fan interaction
+
+		Sandekker travelled with Mousengard 52 years ago towards Nizard empire, outside of Platch then escorted him into the archipelago to Arington
+		He would just yell directions as if he had his own compass
+
+		AL:FRED was not sentient but worked on himself for milennia after being created by ???
+
+		Side passage under water has something calling to Siren
+			Gold dragon shaped statue, with a shell on its back
+				As a bonus action, if the vessel is empty, you can speak the command word to fill the vessel with one of the following (your choice): Ale, Olive Oil, a Potion of Healing, or a Potion of Climbing. Once this property is used, it can’t be used until the next dawn. A potion you create in this way loses its magical properties if it isn’t imbibed within 24 hours.
+
+		LOOT Sol Chest d100
+			Cloak of Protection
+			Dust of Disappearance
+			2 Sending Stones
+
+		LOOT Oracle Chest d100
+			103 gold
+
+		Half elf, old bones
+
+		Word on paper in hand of half elf
+			"Ordenon" (great dragon) fought in a primeval battle, he fought thinkoss' champion (the mother of all sirens)
+
+		Chester names his spirit dog Alfie
+
+		LOOT (shop): Angel's Toenail purchase - 15gp
+		
+		Sol's cooking:
+			Include a Druid mushroom
+				Added to a meal; grants a use of wildshape into spider / wolf / bear for the user when consumed. Can only be used for a single person's meal.
+			Include a dragon mushroom for everyone
+
+		Chester voted next captain
+
+		Party heads towards the military base, a military vessel intercepts our path, initiative is rolled.
+
+		Homework
+			Verse on how we beat the siren
