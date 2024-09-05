@@ -199,6 +199,14 @@ Interesting Food Spells (Scrolls which could be found?)
 		
 		You may also expend a point to bathe yourself in a fiery light, giving you +2 to persuasion and intimidation for one minute.
 
+	Roleplay buff:
+		Roll an extra 1d8 fire damage to the spell's damage (You must announce this before you make the attack roll)
+		Wreath yourself in smoke, giving you +2 AC until the start of your next turn
+		
+		New feature!
+			Trip AdviSol
+			When a crewmate burns a meal you may ask for a review of the meal as a reaction. Spend 1 chef points, and if their review is favourable, then both of you gain advantage on the next attack roll, ability check, or skill check that you perform
+
 /////////////
 /// INTRO ///
 /////////////
