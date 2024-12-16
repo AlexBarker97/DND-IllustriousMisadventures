@@ -38,3 +38,10 @@ MEAL 3 - Glowshroom Spiral Pasta
 		
 	Sol also adds a Dragon cap mushroom (dragons breath meal)
 		
+
+MEAL 4 - SUE-VLAKIE
+	The aroma of sizzling meat and charred vegetables fills the air, promising a culinary adventure unlike any other. Before you is a steaming pressed bread, filled with rich, golden-brown meat, topped with glistening juices.
+	The vegetables within, a medley of vibrant colors, are charred to perfection, their flavors mingling with the warm emanating air.
+	Many well blanched potatoes are finely chopped and fried into crispy nourishing chips adding a final touch of culinary artistry.
+
+	Before you is a finished SUE-VLAKIE, a sight to behold.

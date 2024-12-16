@@ -71,6 +71,8 @@ Insult General
 	Sword a bit dull?
 	Maybe try a hot meal to fire you up!
 	I've got bigger fish to fry than this.
+	You're softer than a soufflé!
+	You're as sharp as a butter knife!
 
 Sol Takes Damage
 	That massage was pretty average. Needs work.
@@ -100,10 +102,6 @@ Food is served
 	Each ingredient whispers with arcane power, a dish both delicious and imposing
 	A flick of the wrist, a swirl of the whisk, arcane energy flows, with a magical dish
 	The sauce simmers down, runes etched on the spoon, this dish is a spell, a culinary typhoon
-
-
-
-
 
 
 

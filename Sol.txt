@@ -110,6 +110,7 @@ Levelling (Wizard)
 		cantrip formulas: +lightning lure -bonfire
 		+ Mind Sliver
 		+ Scorching ray, + Mind Thrust
+		HP 28
 	5: 3rd Level Spells, Spellbook + 2, PB + 1, Cantrips Stronger
 	6: Spellbook + 2, Arcane tradition
 	7: 4th Level Spells, Spellbook + 2
@@ -238,7 +239,6 @@ https://www.youtube.com/watch?v=umwRJaElqAw
 https://www.gmbinder.com/share/-Mx7iDagHOK6qYdt3yMx#:~:text=Arcane%20Tradition%3A%20Alchemist,of%20potions%20is%20time%20consuming.
 https://homebrewery.naturalcrit.com/share/HkfL8dBP4
 https://www.worldanvil.com/block/470269
-
 
 PERSONALITY TRAITS:
 	My friends are my crew; we sink or float together.
