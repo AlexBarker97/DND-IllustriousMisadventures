@@ -4,7 +4,7 @@ The plight of captain thaddeus mousengard, of the plachian empire, hid tremendou
 Treasure is thought to be lost forever.
 
 //////////////////////
-/// Honking Porker ///
+/// Honking Porker /// (our ship)
 
 Level 2
 
@@ -144,189 +144,213 @@ Competition Prep
 		+100g
 		Druid mushroom  - grants a use of wildshape into spider / wolf / bear for the user when consumed in a meal. Can only be used for a single person's meal.
 
-	Cultist tells Oracle: 'They' murdered the priest
-	Black smokey face "We are coming for you Oracle, you won't have long" Voice of the highest priest of the raging tempest, the only man above Oracle in the hierarchy, who has only to lose in a change in order.
-	Enormous dragon head in the center (as an altar) of the church in the visage of Asiron
-	Vision, clouds above and around, Old asironian: "Seek Mousengard, and you will be rewarded".
+Cultist tells Oracle: 'They' murdered the priest
+Black smokey face "We are coming for you Oracle, you won't have long" Voice of the highest priest of the raging tempest, the only man above Oracle in the hierarchy, who has only to lose in a change in order.
+Enormous dragon head in the center (as an altar) of the church in the visage of Asiron
+Vision, clouds above and around, Old asironian: "Seek Mousengard, and you will be rewarded".
 
-	Sandekker's Workshop
-	Siren looking for an alternative way into Sandekkers house?
+Sandekker's Workshop
+Siren looking for an alternative way into Sandekkers house?
 
-	Sandekker eratic, not the man Al-Fred ahs heard about
-	Chester put him to sleep
-	Trap door with mirror in basement
+Sandekker eratic, not the man Al-Fred ahs heard about
+Chester put him to sleep
+Trap door with mirror in basement
 
-	Parrot leads Chester to Sandekker's, pulling him inside.
+Parrot leads Chester to Sandekker's, pulling him inside.
 
-	Empty room
+Empty room
 
-	SCROLL FOUND: Jims Coin
-	SCROLL FOUND: Mending
+SCROLL FOUND: Jims Coin
+SCROLL FOUND: Mending
 
-	Riddle:
+Riddle:
 
-	My first is in ocean, but never in sea.
-	My next is in wasp, but not in a bee.
-	My last is in glider and also in flight.
-	My whole is a creature that hunts through the night.
-		Answer OWL
+My first is in ocean, but never in sea.
+My next is in wasp, but not in a bee.
+My last is in glider and also in flight.
+My whole is a creature that hunts through the night.
+	Answer OWL
 
-	Small room with
-		A small mechanical own
-		Long thin cannon attachment fits onto Al-Freds arm
-		Some notes explaining how this attachment launches a helpful owl
+Small room with
+	A small mechanical own
+	Long thin cannon attachment fits onto Al-Freds arm
+	Some notes explaining how this attachment launches a helpful owl
 
-	SCROLL FOUND: Enlarge-Reduce
+SCROLL FOUND: Enlarge-Reduce
 		
-	Kash - Goddess of change on the walls (Fresco)
+Kash - Goddess of change on the walls (Fresco)
 
-	SCROLL FOUND: 5x Ray of frost
-		1 Chester
-		1 Alfred
-		3 Sol
+SCROLL FOUND: 5x Ray of frost
+	1 Chester
+	1 Alfred
+	3 Sol
 
-	Water barrel in the corner, with a small bucket Al-Fred pours water onto the ground, a green shoot begins to grow from it in the center of the room.
+Water barrel in the corner, with a small bucket Al-Fred pours water onto the ground, a green shoot begins to grow from it in the center of the room.
 
-	Blue	water
-	Red		fire?
-	Orange	?
-	White	frost
+Blue	water
+Red		fire?
+Orange	?
+White	frost
 
-	-1 ray of frost
+-1 ray of frost
 
-	Al-Fred ready to share Lore / Background / his past
+Al-Fred ready to share Lore / Background / his past
 
-	Door in front
-		Flawless
+Door in front
+	Flawless
 
-	Door to the left
-		3 lit torches
+Door to the left
+	3 lit torches
 
-	Puzzle solved, not floorlessly
+Puzzle solved, not floorlessly
 
-	Room with a mimic, found on the second attempt as a plant pot in the corner
+Room with a mimic, found on the second attempt as a plant pot in the corner
 
-	SCROLL FOUND: Grease
+SCROLL FOUND: Grease
 
-	From mimic kill
-		2 bottles purple liquid - Adrenochrome - adrenaline shot in combat
-		243 gold
-			How was this shared?
-		Ring with gemstone - prismatic ring
-			The metal of this ring is streaked with a rainbow pattern that shimmers and shifts around constantly.
-			As an action, you may whisper one of the following words to the ring. All weapon attacks you make have their damage type replaced with the damage type you stated for one minute. You may not use the ring again until the next dawn.
-			The possible damage types are Fire, Cold, Lightning, Poison, Necrotic, and Radiant.
+From mimic kill
+	2 bottles purple liquid - Adrenochrome - adrenaline shot in combat
+	243 gold
+		How was this shared?
+	Ring with gemstone - prismatic ring
+		The metal of this ring is streaked with a rainbow pattern that shimmers and shifts around constantly.
+		As an action, you may whisper one of the following words to the ring. All weapon attacks you make have their damage type replaced with the damage type you stated for one minute. You may not use the ring again until the next dawn.
+		The possible damage types are Fire, Cold, Lightning, Poison, Necrotic, and Radiant.
 
-	Eyes of Helios see terrance escaping 
+Eyes of Helios see terrance escaping 
 		
-	As the room lights up, we see 2 spiders
+As the room lights up, we see 2 spiders
 
-	Spider Fight
-		LOOT: Sol: +1 Leather Armour
+Spider Fight
+	LOOT: Sol: +1 Leather Armour
 
-	Kestulan Fight
+Kestulan Fight
 
-	2 paths -> Main cave opens to bossfight, other underwater route found
+2 paths -> Main cave opens to bossfight, other underwater route found
 
-	Main cave, Siren Bossfight
-		Sandekker kneeling, an adolescent siren with wings behind back, with druid
+Main cave, Siren Bossfight
+	Sandekker kneeling, an adolescent siren with wings behind back, with druid
 
-		Siren plotting with Sandekker?
+	Siren plotting with Sandekker?
 
-		LORE / BACKGROUND: Siren (party member) reveals that Sirens took his son and send him into a range
+	LORE / BACKGROUND: Siren (party member) reveals that Sirens took his son and send him into a range
 
-		After defeating Siren, the party finds the (next entry?) of Thadimus Mousengard's Journal
+	After defeating Siren, the party finds the (next entry?) of Thadimus Mousengard's Journal
 
-		Terrance leads the marines to the party
-		Lt. Axton leads the marines and comes to take the page
-		The party resists but their efforts are futile and they are weak from the Siren fight
+	Terrance leads the marines to the party
+	Lt. Axton leads the marines and comes to take the page
+	The party resists but their efforts are futile and they are weak from the Siren fight
 
-		Axton steals the page
+	Axton steals the page
 
-		AL:FRED Sandekker fan interaction
+	AL:FRED Sandekker fan interaction
 
-		Sandekker travelled with Mousengard 52 years ago towards Nizard empire, outside of Platch then escorted him into the archipelago to Arington
-		He would just yell directions as if he had his own compass
+	Sandekker travelled with Mousengard 52 years ago towards Nizard empire, outside of Platch then escorted him into the archipelago to Arington
+	He would just yell directions as if he had his own compass
 
-		AL:FRED was not sentient but worked on himself for milennia after being created by ???
+	AL:FRED was not sentient but worked on himself for milennia after being created by ???
 
-		Side passage under water has something calling to Siren
-			Gold dragon shaped statue, with a shell on its back
-				As a bonus action, if the vessel is empty, you can speak the command word to fill the vessel with one of the following (your choice): Ale, Olive Oil, a Potion of Healing, or a Potion of Climbing. Once this property is used, it can’t be used until the next dawn. A potion you create in this way loses its magical properties if it isn’t imbibed within 24 hours.
+	Side passage under water has something calling to Siren
+		Gold dragon shaped statue, with a shell on its back
+			As a bonus action, if the vessel is empty, you can speak the command word to fill the vessel with one of the following (your choice): Ale, Olive Oil, a Potion of Healing, or a Potion of Climbing. Once this property is used, it can’t be used until the next dawn. A potion you create in this way loses its magical properties if it isn’t imbibed within 24 hours.
 
-		LOOT Sol Chest d100
-			Cloak of Protection
-			Dust of Disappearance
-			2 Sending Stones
+	LOOT Sol Chest d100
+		Cloak of Protection
+		Dust of Disappearance
+		2 Sending Stones
 
-		LOOT Oracle Chest d100
-			103 gold
+	LOOT Oracle Chest d100
+		103 gold
 
-		Half elf, old bones
+	Half elf, old bones
 
-		Word on paper in hand of half elf
-			"Ordenon" (great dragon) fought in a primeval battle, he fought thinkoss' champion (the mother of all sirens)
+	Word on paper in hand of half elf
+		"Ordenon" (great dragon) fought in a primeval battle, he fought thinkoss' champion (the mother of all sirens)
 
-		Chester names his spirit dog Alfie
+	Chester names his spirit dog Alfie
 
-		LOOT (shop): Angel's Toenail purchase - 15gp
+	LOOT (shop): Angel's Toenail purchase - 15gp
 		
-		Sol's cooking:
-			Include a Druid mushroom
-				Added to a meal; grants a use of wildshape into spider / wolf / bear for the user when consumed. Can only be used for a single person's meal.
-			Include a dragon mushroom for everyone
+	Sol's cooking:
+		Include a Druid mushroom
+			Added to a meal; grants a use of wildshape into spider / wolf / bear for the user when consumed. Can only be used for a single person's meal.
+		Include a dragon mushroom for everyone
 
-		Chester voted next captain
+	Chester voted next captain
 
-		Party heads towards the military base, a military vessel intercepts our path, initiative is rolled.
+	Party heads towards the military base, a military vessel intercepts our path, initiative is rolled.
 
-		Homework
-			Verse on how we beat the siren
+	Homework
+		Verse on how we beat the siren
 
-			A mage of fire, with heart aflame,
-			A fireball grasped within his frame.
-			A miniature sun, a fiery sphere,
-			He hurled it forth without a fear.
+		A mage of fire, with heart aflame,
+		A fireball grasped within his frame.
+		A miniature sun, a fiery sphere,
+		He hurled it forth without a fear.
 
-			The siren's song, a haunting tune,
-			Was silenced by his fiery boon.
-			With magic's might, he struck her down,
-			And claimed the victory as his own.
+		The siren's song, a haunting tune,
+		Was silenced by his fiery boon.
+		With magic's might, he struck her down,
+		And claimed the victory as his own.
 			
-			From palms aflame, beams soared and leapt,
-			A dance of fire, a fiery stept.
-			The siren, caught in fiery net,
-			Her song extinguished, her power met.
+		From palms aflame, beams soared and leapt,
+		A dance of fire, a fiery stept.
+		The siren, caught in fiery net,
+		Her song extinguished, her power met.
 
-			The siren's song, a haunting tune,
-			Was quelled by his fiery swoon.
-			With magic's might, he struck her down,
-			And claimed the victory as his own.
+		The siren's song, a haunting tune,
+		Was quelled by his fiery swoon.
+		With magic's might, he struck her down,
+		And claimed the victory as his own.
 
-		After defeating Siren, the party finds the next entry of Thadimus Mousengard's Journal
+	After defeating Siren, the party finds the next entry of Thadimus Mousengard's Journal
 
-		Terrance leads the marines to the party
-		Lt. Axton leads the marines and comes to take the page
-		The party resists but their efforts are futile and they are weak from the Siren fight
+	Terrance leads the marines to the party
+	Lt. Axton leads the marines and comes to take the page
+	The party resists but their efforts are futile and they are weak from the Siren fight
 
-		Axton steals the page / entry
+	Axton steals the page / entry
 
-	The party angry and wanting to follow the trail of Mousengards Diary chase after Axton to a military island.
+The party angry and wanting to follow the trail of Mousengards Diary chase after Axton to a military island.
 
-	The party is ambushed on their sea voyage by a larger ship.
+The party is ambushed on their sea voyage by a larger ship.
 
-	Victory
-		200gp (40gp each)
-		Sol finds a description of this party
-			Signed by Axton
-			Sol burns it in anger
+Victory
+	200gp (40gp each)
+	Sol finds a description of this party
+		Signed by Axton
+		Sol burns it in anger
 
-	Plan to land on south side of beach is still wanted
+Plan to land on south side of beach is still wanted
 
-	Corina stowaway on ship (mousefolk)
-		Home is Mouseton
-		Groggo's men with the diary entry destroyed Mouseton and stole Corina to hope that she would become a rare posession.
+Corina stowaway on ship (mousefolk)
+	Home is Mouseton
+	Groggo's men with the diary entry destroyed Mouseton and stole Corina to hope that she would become a rare posession.
 
-	In the night Chester is drawn outside to an impish creature, he is walking without mechanical assistance.
-	Imp offers freedom of movement, asks what a star is, pointing to Orangis Major, Amaltheo.
-		Chester tells him.
+In the night Chester is drawn outside to an impish creature, he is walking without mechanical assistance.
+Imp offers freedom of movement, asks what a star is, pointing to Orangis Major, Amaltheo.
+	Chester tells him.
+
+Chester wakes up and cannot walk still
+
+Operation Souvlaki
+	Oracle, Sol pretending to be captives
+	Al:Fred pretends to be working automaton
+	BFB, Siren, Chester dress as navymen
+	"Fierce fight, ur ship was sank but we managed to escape on the enemies ship"
+
+Michael Hunt shows the party around, dungeons first, holding cells next
+Other captives wont leave until their captain is freed, he could cause some chaos and is kept in the dungeon.
+Officers quarters, much better quality with spell scroll, another alarm
+Axton's only vice is to kill things
+
+Sol and Oracle break out with a cannon distraction, they escape to a hatch below with Sol casting grease on the handle
+Siren and AlFred set a fire in the middle
+Sol and Oracle distract the guards with a glowing coin then persuade them that this is a coin that they wish to bring to Lt Axton.
+Chester finds Lt Axton and sweet talks him about hunting. Lt Axton instructs him to kill the blue prisoners.
+Tell general A about tempest theory amongst ???
+Chester writes note and gives to Helios
+	Top of tower fighting Axton
+Lt Axton comes with Chester but sends a carrier pigeon 
+
+ERROR SHAPE WATER SPELL
