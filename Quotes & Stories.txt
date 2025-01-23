@@ -71,7 +71,7 @@ Insult General
 	Sword a bit dull?
 	Maybe try a hot meal to fire you up!
 	I've got bigger fish to fry than this.
-	You're softer than a souffl�!
+	You're softer than a soufflé!
 	You're as sharp as a butter knife!
 
 Sol Takes Damage
@@ -116,7 +116,7 @@ Part 1:
 	I once travelled on the infamously rickety "Salty Wench", who has half-sunk two times in her life.
 	Her crew were wary of any fire, and especially magic, yet they knew me as the port chef with unwavering confidence and the heart of a sunbird. After tasting my meals, they reluctantly invited me onboard. There I would conjure heat to cook and calm the souls of in-experienced pirates with my dancing flames during storms.
 
-	Mirela, was a squat Halfling who sailed onboard the "Salty Wench". She had a nose for rare ingredients. One day she burst into my pristine kitchen, a frantic glint in her eyes. She excitedly told me of the Whisperwind Isles! And how sailors had sighted Moonstone Shrooms � the key to the mythical Dream Stew!
+	Mirela, was a squat Halfling who sailed onboard the "Salty Wench". She had a nose for rare ingredients. One day she burst into my pristine kitchen, a frantic glint in her eyes. She excitedly told me of the Whisperwind Isles! And how sailors had sighted Moonstone Shrooms – the key to the mythical Dream Stew!
 	
 	For those who do not know, Dream Stew grants prophetic visions! The allure was undeniable. My stews were legendary, but stew allowing prophet like visions. Now that would be the perfect meal! Mirela and I would speak to barkeeps and adventurers at the ports around to see if any ships were to sail to the Whisperwind Isles. Unfortunately, after months of searching, no luck was had.
 
@@ -126,8 +126,45 @@ Part 2:
 	Finding the Moonstone Shrooms proved trickier than getting to the island. Luminescent sprites had hidden the mushrooms to protect them. After beguiling the sprites with more undeniably incredible stories and my modest, friendly demeanor, I befriended the sprites, sharing a specially spiced honey cake I'd whipped up on the journey.  Impressed by my talents, the sprites led me to a hidden grove, where the moonstone shrooms glowed faintly, like moonlight itself.
 	
 Part 3:
-	Back on the ship, the Dream Stew bubbled in the pot, a symphony of aromas filling the air. The first spoonful sent me into a vision � a kaleidoscope of vibrant images, a cryptic map leading to a hidden treasure. Mirela, with a nervous giggle, took a sip. Her vision was simpler � a vision of a delicious apple pie, perfectly golden brown and steaming.
+	Back on the ship, the Dream Stew bubbled in the pot, a symphony of aromas filling the air. The first spoonful sent me into a vision – a kaleidoscope of vibrant images, a cryptic map leading to a hidden treasure. Mirela, with a nervous giggle, took a sip. Her vision was simpler – a vision of a delicious apple pie, perfectly golden brown and steaming.
 
 	At first, I was disappointed, but over the years this melted amusement, like a chocolate bomb. Maybe the Dream Stew wasn't perfect after all, but it was certainly an adventure. And after all, there was always room for a good apple pie after a successful, spice-filled quest.
 
 	Perhaps just one Stew isn't the answer, perhaps my talents must go on to create the perfect cookbook.
+
+
+"The Tale of Sol, the Sunlit Chef"
+
+The fire crackled warmly, casting dancing shadows on the forest canopy above. A small group of weary travelers huddled close, the chill of the night kept at bay by the flickering flames. One of them, a wizened bard with a knowing smile, leaned forward and spoke.
+
+"Have you ever heard the tale of Sol, the Sunlit Chef?"
+
+The group murmured, some shaking their heads, others leaning in, intrigued.
+
+"Ah, then let me tell you of him. Picture a man, if you can, with skin as blue as a midsummer sky and muscles carved as though by the gods themselves. His hair—a blazing cascade of golden light—glows like molten sunfire, and when he walks into a room, the very air shimmers with the heat of his presence. But don’t be fooled; Sol is no warlord or demigod of destruction. He is... a chef."
+
+The bard let the word hang in the air, a playful smirk on his lips as the listeners chuckled.
+
+"Not just any chef, mind you. Sol is a culinary virtuoso, a fire wizard who twists flame and magic into the most exquisite meals you can imagine. His stews soothe the weary, his pies could make kings weep, and his roasts—well, they’d make dragons jealous. But Sol is also a sailor. The sea called to him, as it does to all who crave adventure, and it was aboard the rickety old 'Salty Wench' that his legend began."
+
+The bard stirred the fire with a stick, the flames rising as if in tribute.
+
+"The 'Salty Wench' wasn’t much to look at—half-sunk twice, held together by patches and prayers. Her crew? A scrappy lot, more familiar with hardtack than haute cuisine. But then Sol came aboard. At first, they feared him. A man who burns with magic? On a wooden ship? Madness! But once they tasted his cooking, fear turned to awe. They say his flame-grilled fish saved their lives during a storm, the taste so divine it calmed their trembling hearts."
+
+The bard’s voice lowered, the firelight catching his eyes.
+
+"Now, there was one voyage where Sol’s talents truly shone. Mirela, a halfling with a penchant for rare ingredients, burst into his kitchen one day, her nose twitching with excitement. ‘Sol!’ she cried. ‘The Whisperwind Isles! Moonstone Shrooms! They say they hold the secret to the Dream Stew!’
+
+Sol couldn’t resist. A stew that could grant prophetic visions? It would be his masterpiece. So off they went, braving whirlpools and krakens. Sol, of course, had his own way of fighting—no swords or bows for him. No, he tossed a curry bomb right into the maw of a kraken. The beast reeled, its tentacles flailing as if overwhelmed by the sheer spice.
+
+They reached the Whisperwind Isles, a twilight-drenched paradise where the air seemed to whisper secrets. There, they found the sprites guarding the Moonstone Shrooms. Most would have fought, but not Sol. With a honey cake so perfectly spiced it made the stars blush, he won the sprites over, and they led him to the grove where the shrooms glowed like moonlight on water."
+
+The bard’s tone grew softer, more reverent.
+
+"Back on the ship, Sol brewed the Dream Stew, its aroma a symphony of magic and flavor. When he took his first sip, he saw visions—a map to treasures untold, a future blazing with possibilities. Mirela’s vision, in contrast, was a simple apple pie. Golden. Perfect. A little reminder, perhaps, that not all treasures are grand."
+
+He leaned back, letting the silence settle for a moment.
+
+"And so, Sol continues to wander. Some say he’s crafting the ultimate cookbook, gathering secrets from every corner of the world. Wherever he goes, he leaves behind tales of heroism, meals that could turn foes to friends, and the undeniable heat of his charm. And if you’re ever lucky enough to meet him, you’ll know it—because when Sol the Sunlit Chef enters your life, everything gets just a little... hotter."
+
+The group laughed, their spirits lifted, as the fire burned a little brighter in the night.
