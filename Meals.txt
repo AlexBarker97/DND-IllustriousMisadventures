@@ -31,17 +31,18 @@ MEAL 2 - Sea-Kissed Emberlight Halibut (competition)
 
 MEAL 3 - Glowshroom Spiral Pasta
 	A glowing pasta swirled like flames, infused with luminescent glowshrooms.
-
 	This fantastical pasta dish is a symphony of flavors, textures, and magical ingredients. The luminescent glowshrooms add a touch of enchantment, while the iridescent opalcaps and meaty moonroot mushrooms provide a variety of textures and tastes. The dragon's breath pasta adds a unique element, and the creamy ocean salt sauce brings everything together.
-
 	Sol sprinkles Druid mushrooms onto Chester's pasta as a gesture to his new druidism
-		
 	Sol also adds a Dragon cap mushroom (dragons breath meal)
 		
-
-MEAL 4 - SUE-VLAKIE
+MEAL 4 - A Simple Plan
 	The aroma of sizzling meat and charred vegetables fills the air, promising a culinary adventure unlike any other. Before you is a steaming pressed bread, filled with rich, golden-brown meat, topped with glistening juices.
 	The vegetables within, a medley of vibrant colors, are charred to perfection, their flavors mingling with the warm emanating air.
 	Many well blanched potatoes are finely chopped and fried into crispy nourishing chips adding a final touch of culinary artistry.
 
 	Before you is a finished SUE-VLAKIE, a sight to behold.
+
+MEAL 5 - The Salty Porker
+	Juicy chunks of pork, marinated in wild lime, honey, and herbs foraged from a distant island, are flame-charred to perfection. Skewers are served atop soft, garlic-brushed flatbreads baked on roasting cooking stones, alongside creamy tzatziki, and a crisp jungle-green salad.
+	The highlight is the "Golden Flame Glaze," a fiery reduction of rum, spices, and honey, drizzled over the skewers for a final burst of flavor. This meal, a celebration of camaraderie and victory for Operation SUE-VLAKIE.
+	Added Vials of Adrenaline.

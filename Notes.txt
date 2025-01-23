@@ -354,3 +354,33 @@ Chester writes note and gives to Helios
 Lt Axton comes with Chester but sends a carrier pigeon 
 
 ERROR SHAPE WATER SPELL
+
+Oracle, you wouldn’t believe what I overheard the sailors talking about as we came down to this basement. They were arguing that Asiron’s sage is less than the radiant shades of green of Thinkoss. These men have been taught lies by Lt. Axton himself. They seemed to have no respect for Asiron’s shade at all.
+I'll burn them for their blasphemy.
+
+Chester finds a book which talks of:
+Some of the higher gods are unable to directly influence events, fearing a war in heaven should their peers respond in kind. It is no exaggeration to say that these beings have the potential to destroy the world with their conflicts. As such, this author believes that some of the gods attempt to influence mortal events through champions, or "aspects". This author believes that some prodigiously talented creatures are blessed with divine favour, and become nearly unstoppable. It is well documented that there have been individuals throughout history with near divine powers, legendary beings who shaped the world. This remains speculation, as we have not seen such a being in nearly a millennium, and as such we have no concrete proof of this theory.
+
+Lt Axton has put a bounty out for the party, he knew Chester Shumaker by name
+
+Axton LOOT
+	Very nice sabre
+	Pistol found
+	Couple of rings
+		Spell casting
+		Enchants your weapon based on spell casted
+	Gold
+
+Song - Operation Suevlaki
+	Oracle, Sol pretending to be captives
+	Al:Fred pretends to be working automaton
+	BFB, Siren, Chester dress as navymen
+	"Fierce fight, ur ship was sank but we managed to escape on the enemies ship"
+
+AlFred upgrades the ships speed
+
+Very immediate storm comes across the ship, with lightning, sinks ship
+
+2 groups wash up on shore:
+	Sol, Chester, AlFred
+	Siren, Oracle
