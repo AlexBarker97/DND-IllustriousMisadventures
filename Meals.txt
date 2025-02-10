@@ -46,3 +46,7 @@ MEAL 5 - The Salty Porker
 	Juicy chunks of pork, marinated in wild lime, honey, and herbs foraged from a distant island, are flame-charred to perfection. Skewers are served atop soft, garlic-brushed flatbreads baked on roasting cooking stones, alongside creamy tzatziki, and a crisp jungle-green salad.
 	The highlight is the "Golden Flame Glaze," a fiery reduction of rum, spices, and honey, drizzled over the skewers for a final burst of flavor. This meal, a celebration of camaraderie and victory for Operation SUE-VLAKIE.
 	Added Vials of Adrenaline.
+
+MEAL 6 - Faewild Forager’s Feast
+	A steaming plate of golden mash made from salty potatoes and apples, their sweetness and brine merging into a silky, otherworldly harmony. At its heart, a slab of charred, tender meat hides beneath a crisp, crackling shell that shatters with each bite, releasing the smoky juices within.
+	Before you lies what may be an aracaphobes fear, but a mighty adventurers' feast pulled together from scavenged treasures of the forest.
