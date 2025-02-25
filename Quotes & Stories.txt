@@ -2,29 +2,11 @@
 ///// Quotes ///// Quotes ///// Quotes ///// Quotes ///// Quotes ///// Quotes ///// Quotes /////
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
-Compliment caster
-	That spell painted the air! Precise and powerful, just like a perfectly seasoned dish. Nice work!
-
-Compliment Siren
-	Your Glaive! You weave through enemies like a hot knife through butter!
-
-Compliment Chester
-	Mech magic? Now that's some seriously stuffed sorcery! You're packing a whole pot roast of power in there!
-
-Compliment Oracle
-	
-
-Compliment Alfred
-	
-
 Angry
 	The simmering rage of a disrespected chef is coming to a boil
 
-Surprised
-	
-
 Defusing
-	Patience, young one. The best dishes take time... and a good scorching
+	Patience, young one. The best dishes take time...
 
 Missed spell
 	Don't get too comfortable.. I'm just pre-heating
@@ -44,7 +26,6 @@ Casting fire spell
 
 Casting generic spell
 	Don't worry, this dish is complimentary...
-	This dish dances on the edge, a taste both tempting and utterly deranged
 	A single bite could rewrite fate, but fear not, the flavor's worth the wait
 	You should've ordered the halibut, it comes with a side of whoop-ass
 
@@ -64,6 +45,7 @@ Against another fire caster
 Show of Confidence
 	To remain calm and collected is the earned right of the powerful.
 	Pardon me, I find it irksome to be looked down upon by someone smaller.
+	It's hard to miss a chef who literally lights up the room.
 
 Insult General
 	You reek worse than a kraken's armpit!
@@ -77,34 +59,32 @@ Insult General
 Sol Takes Damage
 	That massage was pretty average. Needs work.
 
-Smoke Cloud
-	You must have burnt something.
+Steam Cloud
 	Time for a good steaming
 
-Melee hit
-	This ain't a fish fork, ya landlubber
+Melee hit Trident
 	Three-pronged attack! And your side dish is defeat
-	This blade cuts more than vegetables. It severs the connection between arrogance and your hide
 	Get a skewer-load of this
+
+Melee hit sharp
+	This blade cuts more than vegetables. It severs the connection between arrogance and your hide
 
 Upon Dealing devastating damage
 	The only thing getting served here is a piping hot beatdown
-	Bone appetit, matey
+	Bon appetit, matey
+	You forgot your compliments to the chef
 
 Intimidation
-	You forgot your compliments to the chef
 	You choose, scrambled or beaten?
 	Dinner and a show! Tonight's special: You, served medium rare.
 	You shall be the grease at the bottom of my pan.
+	Young one. The best dishes take time... and a good scorching.
 
 Food is served
 	Tonight, we feast with the otherworldly, a taste so divine, it's almost unearthly
 	Each ingredient whispers with arcane power, a dish both delicious and imposing
 	A flick of the wrist, a swirl of the whisk, arcane energy flows, with a magical dish
 	The sauce simmers down, runes etched on the spoon, this dish is a spell, a culinary typhoon
-
-
-
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////

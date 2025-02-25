@@ -134,55 +134,58 @@ Spells with monetary value will be a special ingredient to find instead
 
 Spells aiming for:
 	Cantrip
-		✔ Fire Bolt								Damage								FIRE Ranged spell attack - see quotes
-		✔ Control Flames						Roleplay							Images in fire for storytelling
-		✔ Create Bonfire						Roleplay							Bish Bash Bosh
-		✔ Smoke (Steam) Cloud - Triton Innate	Utility & Roleplay					A hot humid steam that is hard to see through or out of
-		✘ Sword Burst							Roleplay							Cutlery around Sol
-		✘ Ray of frost						
-		✘ Mending
-		✔ Mind Sliver							Damage								Intelligent wizard toying with low int pirates
+		A	✔ Bonfire								Utility, Roleplay
+		A	✔ Fire Bolt								Damage								FIRE Ranged spell attack - see quotes
+		A	✔ Control Flames						Roleplay							Images in fire for storytelling
+		A	✔ Create Bonfire						Roleplay							Bish Bash Bosh
+		A	✔ Smoke (Steam) Cloud - Triton Innate	Utility & Roleplay					A hot humid steam that is hard to see through or out of
+		A	✔ Light									Utility & Roleplay					Lumiberry glow
+		A	✘ Sword Burst							Roleplay							Cutlery around Sol
+		A	✔ Mind Sliver							Damage								Intelligent wizard toying with low int pirates
+		A	✔ Lightning Lure						Utility								Lade Lure
+		A	✘ Blade Ward							Utility / Survive					
 	Level 1
-		✔ Alarm									Utility				Ritual			Egg timer going off
-		✔ Find Familiar							Roleplay & Utility					Cat named Helios, Octopus named Apollo
-		✔ Comprehend Languages					Roleplay & Puzzle	Ritual			The global language of taste
-		✔ Silvery Barbs							Utility								Confidence check
-		✔ Burning Hands							Damage								Blowing hot ambers
-		✔ Shape Water							Roleplay & Puzzle					
-		✔ Magic Missile							Damage								You forgot your compliments to the chef
-		✘ Charm Person							Utility & Roleplay					They taste food so good, they become infatuated with you
-		✘ Chromatic Orb							Damage								Assign each element a different ingredient (experimental explosion)
-		✔ Grease								Roleplay & Utility					Cracked roleplay
-		✘ Ceremony								Roleplay & Utility		COST, Ritual	A feast worthy of any ceremony (not wiz spell)
-		✘ Hellish Rebuke						Roleplay & Damage					(not a wiz spell!)				
-		✘ Feather Fall							Utility							voluptuous bao buns begin to appear within the air, slowing your descent
-		✘ Arcane Lock							Utility							not letting scallywags like Terrance go again
+		Rit	✔ Alarm									Utility								Egg timer going off
+		Rit	✔ Find Familiar							Roleplay & Utility					Cat named Helios, Octopus named Apollo
+		Rit	✔ Comprehend Languages					Roleplay & Puzzle					The global language of taste
+		R	✔ Silvery Barbs							Utility								Confidence check
+		A	✔ Burning Hands							Damage								Blowing hot ambers
+		A	✔ Shape Water							Roleplay & Puzzle					
+		A	✔ Magic Missile							Damage								You forgot your compliments to the chef
+		A	✘ Charm Person							Utility & Roleplay					They taste food so good, they become infatuated with you
+		A	✘ Chromatic Orb							Damage								Assign each element a different ingredient (experimental explosion)
+		A	✔ Grease								Roleplay & Utility					Cracked roleplay
+		Rit	✘ Ceremony								Roleplay & Utility		COST		A feast worthy of any ceremony (not wiz spell)
+		R	✘ Hellish Rebuke						Roleplay & Damage					(not a wiz spell!)				
+		R	✘ Feather Fall							Utility								Voluptuous bao buns begin to appear within the air, slowing your descent
+		A	✘ Arcane Lock							Utility								Not letting scallywags like Terrance go again
 	Level 2
-		✘ Augury								Puzzle				COST, Ritual	Ask his culinary mentor
-		✔ Continual Flame						Roleplay			COST			Sweet thematic roleplay, always emitting light
-		✘ Pyrotechnics							Utility								Bright light of fire, and dark smoke for vision
-		✔ Scorching Ray							Damage								FIRE Ranged spell attack - see quotes
-		✔ Flaming Sphere						Damage								Solar Peak - Sol will often channel a minute sun into existence
-		✘ Aganazzar's Scorcher					Damage								A line of fire - "Can't handle the heat, stay out of the kitchen?"
-		✘ Dragon's Breath						Damage								Blowing hot ambers
-		✘ Misty Step							Utility								Blazing dash, nothing but embers and smoke remain
-		✘ Wither and Bloom						Damage & Heal						
-		✘ Tasha's Mind Whip						Damage & Utility					Intelligent wizard toying with low int pirates
-		✔ Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
-		✘ Vortex Warp							Save & Roleplay & Utility
-		✔ Mind Thrust (UA)					Damage & Utility				Dealing with Big Bad (BonusAct so this + cantrip)
+		Rit	✘ Augury								Puzzle					COST		Ask his culinary mentor
+		A	✔ Continual Flame						Roleplay				COST		Sweet thematic roleplay, always emitting light
+		A	✘ Pyrotechnics							Utility								Bright light of fire, and dark smoke for vision
+		A	✔ Scorching Ray							Damage								FIRE Ranged spell attack - see quotes
+		A	✔ Flaming Sphere						Damage								Solar Peak - Sol will often channel a minute sun into existence
+		A	✘ Aganazzar's Scorcher					Damage								A line of fire - "Can't handle the heat, stay out of the kitchen?"
+		BA	✘ Dragon's Breath						Damage								Blowing hot ambers
+		BA	✘ Misty Step							Utility								Blazing dash, nothing but embers and smoke remain
+		A	✘ Wither and Bloom						Damage & Heal						
+		A	✘ Tasha's Mind Whip						Damage & Utility					Intelligent wizard toying with low int pirates
+		A	✔ Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
+		A	✘ Vortex Warp							Save & Roleplay & Utility
+		BA	✔ Mind Thrust (UA)						Damage & Utility					Dealing with Big Bad (BonusAct so this + cantrip)
 	Level 3
-		✘ Fireball								Damage								Solar Peak - Sol will often channel a minute sun into existence, hurling it at enemies
-		✘ Tidal Wave							Damage & Utility & Roleplay			Great for thematic casting
-		✘ Create Food and Water					Utility & Roleplay					Change this to great food, not bland
-		✘ Water Breathing						Utility				Ritual			Could be very useful for the party, hands out a snack to each
-		✘ Ashardalon's Stride					Utility								Blazing dash, nothing but embers and smoke remain
-		✘ Flame Arrows							Damage & Roleplay					Set fire to someone's arrows
-		✘ Melf's Minute Meteors					Damage & Roleplay					Meatballs? Orbs of pure solar essence
-		✘ Counterspell							Utility								Confidence check
-		✘ Bestow Curse							Roleplay & Utility					You seem like somebody who doesn't leave a tip
-		✘ Fear									Utility & Roleplay					Confidence check
-		✘ Fly									Utility & Puzzle					Phoenix
+		A	✘ Fireball								Damage								Solar Peak - Sol will often channel a minute sun into existence, hurling it at enemies
+		A	✘ Tidal Wave							Damage & Utility & Roleplay			Great for thematic casting
+		A	✘ Create Food and Water					Utility & Roleplay					Change this to great food, not bland
+		Rit	✘ Water Breathing						Utility								Could be very useful for the party, hands out a snack to each
+		BA	✘ Flame/Ashardalon's Stride				Utility								Blazing dash, nothing but embers and smoke remain
+		A	✘ Flame Arrows							Damage & Roleplay					Set fire to someone's quiver - 12 arrows
+		A	✘ Melf's Minute Meteors					Damage & Roleplay					Is that Meatballs?
+		R	✘ Counterspell							Utility								Confidence check
+		A	✘ Bestow Curse							Roleplay & Utility					You seem like somebody who doesn't leave a tip
+		A	✘ Fear									Utility & Roleplay					Confidence check, many quotes ready
+		A	✘ Fly									Utility & Puzzle					Phoenix
+		BA	✘ Spirit Shroud							Utility								The Chef's Critics
 
 Interesting Food Spells (Scrolls which could be found?)
 	Heroes feast			6th Level
