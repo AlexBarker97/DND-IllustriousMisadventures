@@ -99,19 +99,22 @@ Levelling (Wizard)
 	Each of the spells added to your spellbook must be of a level for which you have spell slots.
 
 	1: 1st level spells, Spellbook + 6, Cantrip + 3, Arcane recovery
-		18 INT (5 prepared spells)
+		4+1 (5 prepared spells)
 	2: Spellbook + 2, Arcane tradition
-		+1 prepared spell (6)
+		4+2 (6 prepared spells) 
 	3: 2nd level spells, Spellbook + 2, LR: Swap a cantrip with another
-		+1 prepared spell (7)
+		4+3 (7 prepared spells) 
 	4: Spellbook + 2, Cantrip + 1, ASI/Feat
-		ASI +2 INT (20) -> + 1 prepared spell (8)
-		+1 prepared spell (9)
+		ASI +2 INT (20)
+		5+4 (9 prepared spells)
 		cantrip formulas: +lightning lure -bonfire
 		+ Mind Sliver
 		+ Scorching ray, + Mind Thrust
 		HP 28
 	5: 3rd Level Spells, Spellbook + 2, PB + 1, Cantrips Stronger
+		5+5 (10 prepared spells)
+		HP 32
+		+ Fireball, + Spirit Shroud
 	6: Spellbook + 2, Arcane tradition
 	7: 4th Level Spells, Spellbook + 2
 	8: Spellbook + 2, ASI/Feat
@@ -173,8 +176,9 @@ Spells aiming for:
 		A	✔ Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
 		A	✘ Vortex Warp							Save & Roleplay & Utility
 		BA	✔ Mind Thrust (UA)						Damage & Utility					Dealing with Big Bad (BonusAct so this + cantrip)
+		A/BA✘ Heat Metal							Damage & Utility					Continuous damage against enemies with metal equipped
 	Level 3
-		A	✘ Fireball								Damage								Solar Peak - Sol will often channel a minute sun into existence, hurling it at enemies
+		A	✔ Fireball								Damage								Solar Peak - Sol will often channel a minute sun into existence, hurling it at enemies
 		A	✘ Tidal Wave							Damage & Utility & Roleplay			Great for thematic casting
 		A	✘ Create Food and Water					Utility & Roleplay					Change this to great food, not bland
 		Rit	✘ Water Breathing						Utility								Could be very useful for the party, hands out a snack to each
@@ -185,7 +189,7 @@ Spells aiming for:
 		A	✘ Bestow Curse							Roleplay & Utility					You seem like somebody who doesn't leave a tip
 		A	✘ Fear									Utility & Roleplay					Confidence check, many quotes ready
 		A	✘ Fly									Utility & Puzzle					Phoenix
-		BA	✘ Spirit Shroud							Utility								The Chef's Critics
+		BA	✔ Spirit Shroud							Utility								The Chef's Critics
 
 Interesting Food Spells (Scrolls which could be found?)
 	Heroes feast			6th Level

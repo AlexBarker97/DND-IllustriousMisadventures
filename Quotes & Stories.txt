@@ -46,6 +46,7 @@ Show of Confidence
 	To remain calm and collected is the earned right of the powerful.
 	Pardon me, I find it irksome to be looked down upon by someone smaller.
 	It's hard to miss a chef who literally lights up the room.
+	My name is Sol, commit it to memory before I kill you.
 
 Insult General
 	You reek worse than a kraken's armpit!
@@ -55,6 +56,7 @@ Insult General
 	I've got bigger fish to fry than this.
 	You're softer than a soufflé!
 	You're as sharp as a butter knife!
+	Sometimes the best seasoning is assault
 
 Sol Takes Damage
 	That massage was pretty average. Needs work.

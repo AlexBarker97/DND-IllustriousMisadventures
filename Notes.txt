@@ -379,6 +379,10 @@ Song - Operation Suevlaki
 
 AlFred upgrades the ships speed
 
+//////////////////
+/// SHIP STORM ///
+//////////////////
+
 Very immediate storm comes across the ship, with lightning, sinks ship
 
 2 groups wash up on shore:
@@ -468,3 +472,23 @@ Scrolls
 	Booming blade - Oracle
 	51gp in chest - 10gp each
 	Bright red trousers - Sol
+
+Chanting and screaming in the basement, the party comes together to find Corrinna
+
+The pirates need Corrinna to follow Mousengard (maybe Corrinna is to do with MOUSEngard?)
+Loot
+	Ruby Necklace worth 70gp
+	Magical sacrificial dagger
+		If you end a life with this dagger you gain 1d4 hp
+	Book about blood magic
+		Written by a fool
+	d100(80)
+		Magical amulet smelling of booze
+		Staff (fanged cobra head)
+
+Level 5 and a few days rest to repair ship
+	Spending down time summoning Apollo in the water around the ship, will put it in a bucket of water on the ship before they leave
+	Cooking a meal, Dragons Plate:
+	Resistance to a type of damage (poison) AND as an action can do a cone of damage 3d6 of that element once. Improves at level 5, 7, 9, 11... (so 4d6 poison damage)
+
+	TODO: Going to write in something about the meal to make it poisonous and tell it in the food description
