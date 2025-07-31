@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\IllustriousMisadventuresDnd\\",
+  "WorkspaceRootPath": "C:\\GitHub\\IllustriousMisadventuresDnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|D:\\GitHub\\IllustriousMisadventuresDnd\\Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|C:\\GitHub\\IllustriousMisadventuresDnd\\Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|solutionrelative:Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|D:\\GitHub\\IllustriousMisadventuresDnd\\Sol.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|C:\\GitHub\\IllustriousMisadventuresDnd\\Meals.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|solutionrelative:Meals.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|C:\\GitHub\\IllustriousMisadventuresDnd\\Sol.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|solutionrelative:Sol.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|D:\\GitHub\\IllustriousMisadventuresDnd\\Quotes \u0026 Stories.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|C:\\GitHub\\IllustriousMisadventuresDnd\\Quotes \u0026 Stories.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|solutionrelative:Quotes \u0026 Stories.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|D:\\GitHub\\IllustriousMisadventuresDnd\\Meals.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|Solution Items{4E27DAE2-AC75-439A-8E20-A95523E8D1EE}|solutionrelative:Meals.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,52 +32,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Notes.txt",
-              "DocumentMoniker": "D:\\GitHub\\IllustriousMisadventuresDnd\\Notes.txt",
+              "DocumentMoniker": "C:\\GitHub\\IllustriousMisadventuresDnd\\Notes.txt",
               "RelativeDocumentMoniker": "Notes.txt",
-              "ToolTip": "D:\\GitHub\\IllustriousMisadventuresDnd\\Notes.txt",
+              "ToolTip": "C:\\GitHub\\IllustriousMisadventuresDnd\\Notes.txt",
               "RelativeToolTip": "Notes.txt",
-              "ViewState": "AgIAAMkBAAAAAAAAAAAowMwBAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAPMBAAAAAAAAAAAAAAICAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-12-02T22:33:50.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Meals.txt",
-              "DocumentMoniker": "D:\\GitHub\\IllustriousMisadventuresDnd\\Meals.txt",
+              "DocumentMoniker": "C:\\GitHub\\IllustriousMisadventuresDnd\\Meals.txt",
               "RelativeDocumentMoniker": "Meals.txt",
-              "ToolTip": "D:\\GitHub\\IllustriousMisadventuresDnd\\Meals.txt",
+              "ToolTip": "C:\\GitHub\\IllustriousMisadventuresDnd\\Meals.txt",
               "RelativeToolTip": "Meals.txt",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAC4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADMAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-05-29T23:48:18.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Quotes \u0026 Stories.txt",
-              "DocumentMoniker": "D:\\GitHub\\IllustriousMisadventuresDnd\\Quotes \u0026 Stories.txt",
+              "DocumentMoniker": "C:\\GitHub\\IllustriousMisadventuresDnd\\Quotes \u0026 Stories.txt",
               "RelativeDocumentMoniker": "Quotes \u0026 Stories.txt",
-              "ToolTip": "D:\\GitHub\\IllustriousMisadventuresDnd\\Quotes \u0026 Stories.txt",
+              "ToolTip": "C:\\GitHub\\IllustriousMisadventuresDnd\\Quotes \u0026 Stories.txt",
               "RelativeToolTip": "Quotes \u0026 Stories.txt",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-27T23:53:54.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T23:53:54.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Sol.txt",
-              "DocumentMoniker": "D:\\GitHub\\IllustriousMisadventuresDnd\\Sol.txt",
+              "DocumentMoniker": "C:\\GitHub\\IllustriousMisadventuresDnd\\Sol.txt",
               "RelativeDocumentMoniker": "Sol.txt",
-              "ToolTip": "D:\\GitHub\\IllustriousMisadventuresDnd\\Sol.txt",
+              "ToolTip": "C:\\GitHub\\IllustriousMisadventuresDnd\\Sol.txt",
               "RelativeToolTip": "Sol.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-27T23:54:02.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T23:54:02.924Z"
             }
           ]
         }
