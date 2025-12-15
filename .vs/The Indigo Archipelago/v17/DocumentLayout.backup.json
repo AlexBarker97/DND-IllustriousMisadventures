@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Notes.txt",
               "ToolTip": "C:\\GitHub\\IllustriousMisadventuresDnd\\Notes.txt",
               "RelativeToolTip": "Notes.txt",
-              "ViewState": "AgIAAPABAAAAAAAAAAAAAPwBAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAPkBAAAAAAAAAAAAACECAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-12-02T22:33:50.508Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Meals.txt",
               "ViewState": "AgIAABoAAAAAAAAAAAAAADMAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-29T23:48:18.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T23:48:18.935Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Quotes \u0026 Stories.txt",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-27T23:53:54.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T23:53:54.731Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Sol.txt",
               "ViewState": "AgIAAGEAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-27T23:54:02.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T23:54:02.924Z"
             }
           ]
         }
