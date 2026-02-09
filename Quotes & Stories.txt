@@ -4,16 +4,30 @@
 
 Angry
 	The simmering rage of a disrespected chef is coming to a boil
+	The kitchen’s closed. You’re the entrée.
+	You’ve burned my patience. Now I burn you.
+	That wasn’t heat… this is heat.
+	Disrespect the chef, taste the flame.
+	I am the fire beneath the fury.
+	My patience is tinder. And you just lit it.
 
 Defusing
 	Patience, young one. The best dishes take time...
+	Easy now. Even storms need to simmer.
+	Calm the boil. We’ll plate this clean.
+	Easy. Let the coals settle...
+	Breathe, let the heat do its work.
 
 Missed spell
 	Don't get too comfortable.. I'm just pre-heating
 	Some prefer their food slow cooked...
+	A dash more heat and it would’ve been perfect.
+	Damn, I guess the pan wasn’t ready.
 
 Casting fire spell
 	CRUEL SUN
+	LET THE SUN SINGE
+	OPEN THE HEARTH
 	You're going to be sunny side up
 	You seem a little undercooked
 	Looks like someone needs a taste of my signature dish
@@ -23,14 +37,21 @@ Casting fire spell
 	Dinner and a show! Tonight's special: You, served medium rare
 	Looks like someone ordered the 'Chef' special. Enjoy the burn
 	Time to turn up the heat
+	Time to flambé the lot of you.
+	The pan is hot. Pray you are not.
+	Into the oven with you.
 
 Casting generic spell
 	Don't worry, this dish is complimentary...
 	A single bite could rewrite fate, but fear not, the flavor's worth the wait
 	You should've ordered the halibut, it comes with a side of whoop-ass
+	Sit. Stay. Savor your mistake.
+	A little seasoning goes a long way.
+	A pinch of heat, a twist of fate.
 
 Wind & Fire
 	A strong wind carries a fire far
+	The wind feeds the flame.
 
 Against another fire caster
 	How interesting.. You are quite powerful... I would say you are second only to me.
@@ -41,12 +62,20 @@ Against another fire caster
 		Dim Candle
 		Flickering Candle
 		Tepid Puddle
+	You’re a spark. I’m the hearth.
+	Your flame flickers. Mine commands.
+	Cute flame. Mine is the sun.
+	I’ve cooked hotter meals than you.
 
 Show of Confidence
 	To remain calm and collected is the earned right of the powerful.
 	Pardon me, I find it irksome to be looked down upon by someone smaller.
 	It's hard to miss a chef who literally lights up the room.
 	My name is Sol, commit it to memory before I kill you.
+	A true chef never rushes perfection.
+	I don’t just cook. I curate fate.
+	Tonight’s recipe: resolve, heat, and heroics.
+	I’m the heat that turns hunger into legend.
 
 Insult General
 	You reek worse than a kraken's armpit!
@@ -57,37 +86,53 @@ Insult General
 	You're softer than a soufflé!
 	You're as sharp as a butter knife!
 	Sometimes the best seasoning is assault
+	You’re the garnish no one asked for.
+	I’ve seen sharper spoons.
+	All sizzle, no sear.
 
 Sol Takes Damage
 	That massage was pretty average. Needs work.
+	Hah. I’ve been scalded better.
 
 Steam Cloud
 	Time for a good steaming
+	Let the mist marinate your fear.
+	Steam rises; fear follows.
 
 Melee hit Trident
 	Three-pronged attack! And your side dish is defeat
 	Get a skewer-load of this
+	Skewered and served.
+	Trident sear. Perfect crust.
 
 Melee hit sharp
 	This blade cuts more than vegetables. It severs the connection between arrogance and your hide
+	Precision cut. Chef’s kiss.
+	That slice was fire‑kissed.
 
 Upon Dealing devastating damage
 	The only thing getting served here is a piping hot beatdown
 	Bon appetit, matey
 	You forgot your compliments to the chef
+	Served hot, eaten whole.
+	That’s a five‑star finish.
 
 Intimidation
 	You choose, scrambled or beaten?
 	Dinner and a show! Tonight's special: You, served medium rare.
 	You shall be the grease at the bottom of my pan.
 	Young one. The best dishes take time... and a good scorching.
+	Speak softly… or I’ll carve loudly.
+	You Choose; crispy, charred, or gone.
+	Step closer and feel the heat.
 
 Food is served
 	Tonight, we feast with the otherworldly, a taste so divine, it's almost unearthly
 	Each ingredient whispers with arcane power, a dish both delicious and imposing
 	A flick of the wrist, a swirl of the whisk, arcane energy flows, with a magical dish
 	The sauce simmers down, runes etched on the spoon, this dish is a spell, a culinary typhoon
-
+	The table is set. So is your fate.
+	Heat, salt, and spell—perfected.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories ///// Stories /////
