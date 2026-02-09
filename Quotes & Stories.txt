@@ -45,9 +45,12 @@ Casting generic spell
 	Don't worry, this dish is complimentary...
 	A single bite could rewrite fate, but fear not, the flavor's worth the wait
 	You should've ordered the halibut, it comes with a side of whoop-ass
-	Sit. Stay. Savor your mistake.
+	Savor your mistake.
 	A little seasoning goes a long way.
 	A pinch of heat, a twist of fate.
+
+Seeing someone take damage (enemy)
+	Hear that sizzle? That’s progress.
 
 Wind & Fire
 	A strong wind carries a fire far

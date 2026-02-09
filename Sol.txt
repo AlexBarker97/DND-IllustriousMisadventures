@@ -168,7 +168,7 @@ Spells aiming for:
 		A	✘ Pyrotechnics							Utility								Bright light of fire, and dark smoke for vision
 		A	✔ Scorching Ray							Damage								FIRE Ranged spell attack - see quotes
 		A	✔ Flaming Sphere						Damage								Solar Peak - Sol will often channel a minute sun into existence
-		A	✘ Aganazzar's Scorcher					Damage								A line of fire - "Can't handle the heat, stay out of the kitchen?"
+		A	✔ Aganazzar's Scorcher					Damage					Resource	A line of fire - "Can't handle the heat, stay out of the kitchen?"
 		BA	✘ Dragon's Breath						Damage								Blowing hot ambers
 		BA	✘ Misty Step							Utility								Blazing dash, nothing but embers and smoke remain
 		A	✘ Wither and Bloom						Damage & Heal						
