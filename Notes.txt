@@ -371,6 +371,11 @@ Axton LOOT
 		Enchants your weapon based on spell casted
 	Gold
 
+Axton was reading a book which was open on this page with Aspect highlighted
+The book falls open naturally to a page somewhere in the middle, and you see a passage underlined several times on it.
+
+It reads "Some of the higher gods are unable to directly influence events, fearing a war in heaven should their peers respond in kind. It is no exaggeration to say that these beings have the potential to destroy the world with their conflicts. As such, this author believes that some of the gods attempt to influence mortal events through champions, or "aspects". This author believes that some prodigiously talented creatures are blessed with divine favour, and become nearly unstoppable. It is well documented that there have been individuals throughout history with near divine powers, legendary beings who shaped the world. This remains speculation, as we have not seen such a being in nearly a millennium, and as such we have no concrete proof of this theory.
+
 Song - Operation Suevlaki
 	Oracle, Sol pretending to be captives
 	Al:Fred pretends to be working automaton
@@ -577,3 +582,26 @@ Perception check seeing force spells, arrows piercing, and mace hits appearing o
  - Fails
 
 Troll dies but stands back up again.
+
+Siren and Sol search the maze
+Siren loot - Mariner's Armour - swim speed = speed, heal under water
+Wind fan - Gust of wind, 20% less chance of success each use, if fail it breaks
+
+Next room, stone walls with red carpet (Pantheon of god statues) - HALL OF ASPECTS
+22 statues of assorted gods, each with a different figure kneeling before it
+
+Dianna - elf kneeling before her
+Dianna - dwarf kneeling before her
+Morridin god of land - Jeff holding a hammer kneeling before him
+Asiron - a scaly dragon figure kneeling before him
+
+Door leads to another room - library
+Cannot remove books from shelves, names of jumbled words
+Painting on table
+Riddle above next door - who knows all langagues?
+
+Other room
+One by one we fall from heaven down into the depths of past, And our world is ever upturned so that yet some time we'll last.
+
+The party reunites for 1 more riddle
+I run smoother than most any rhyme; I love to fall but cannot climb.

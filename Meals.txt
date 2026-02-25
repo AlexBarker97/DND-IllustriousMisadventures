@@ -50,3 +50,5 @@ MEAL 5 - The Salty Porker
 MEAL 6 - Faewild Forager’s Feast
 	A steaming plate of golden mash made from salty potatoes and apples, their sweetness and brine merging into a silky, otherworldly harmony. At its heart, a slab of charred, tender meat hides beneath a crisp, crackling shell that shatters with each bite, releasing the smoky juices within.
 	Before you lies what may be an aracaphobes fear, but a mighty adventurers' feast pulled together from scavenged treasures of the forest.
+
+	Troll Sushi
