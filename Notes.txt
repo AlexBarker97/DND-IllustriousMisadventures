@@ -589,19 +589,62 @@ Wind fan - Gust of wind, 20% less chance of success each use, if fail it breaks
 
 Next room, stone walls with red carpet (Pantheon of god statues) - HALL OF ASPECTS
 22 statues of assorted gods, each with a different figure kneeling before it
+	Dianna - elf kneeling before her
+	Dianna - dwarf kneeling before her
+	Morridin god of land - Jeff holding a hammer kneeling before him
+	Asiron - a scaly dragon figure kneeling before him
 
-Dianna - elf kneeling before her
-Dianna - dwarf kneeling before her
-Morridin god of land - Jeff holding a hammer kneeling before him
-Asiron - a scaly dragon figure kneeling before him
+	Siren places his drinking vessel onto Asiron's statue and has a vision of Asiron.
+	His stirring dragon vessel can now create potions of healing or dragon breath
 
 Door leads to another room - library
-Cannot remove books from shelves, names of jumbled words
-Painting on table
-Riddle above next door - who knows all langagues?
+	Cannot remove books from shelves, names of jumbled words
+	Painting on table
+	Riddle above next door - who knows all langagues?
+		Echo
 
-Other room
-One by one we fall from heaven down into the depths of past, And our world is ever upturned so that yet some time we'll last.
+	One by one we fall from heaven down into the depths of past, And our world is ever upturned so that yet some time we'll last.
+		???
 
 The party reunites for 1 more riddle
 I run smoother than most any rhyme; I love to fall but cannot climb.
+	Answer: Water/Rain
+
+A room with 5 pedestals
+	The reflection is true
+	You are not you
+	Reunite your heart with your past
+	And you can proceed, at long last
+	But if you spot the twist, and want to go to such lengths
+	Reunite him with his inner strength
+	The Liar Walks Among You
+
+Pedestals
+	WASTED LIFE
+	BLIND FOOL
+	IMPOTENT MAD MAN
+	MISGUIDED FANATIC
+	DEMON SUMMONER
+
+	Shoe
+	Drenched wood - Finn
+	Locket
+	Fire Quartz
+	Mechanical Cog
+
+"Definitely Sol Moments"
+	"Knows Finn"
+	"Brewery Memories"
+	"Not sure about Fire quartz"
+	"Oracle not religeous"
+	Tries to leave by holding open the door
+	Shade in mirror must be a trap
+	High Oralce of Thinkoss
+	
+Hold person completely controls Sol
+
+Cinematic moment for each character
+Sol
+Overcome fear of not living up to his own culinary expectations
+Fears nothing black void
+Goes on for too long, realises that its not a fear of nothing, it is becoming nothing.
