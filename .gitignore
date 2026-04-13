@@ -2,10 +2,9 @@
 *.mp4
 *.jpg
 *.png
+*.code-workspace
 
-!Meals.*
-!Quotes & Stories.*
-!Sol.*
-!Campaign Notes.*
-
-AI/Sol.jpg
+!Meals.txt
+!Quotes & Stories.txt
+!Sol.txt
+!Campaign Notes.txt
