@@ -145,7 +145,7 @@ Spells aiming for:
 		A	✔ Light									Utility & Roleplay					Lumiberry glow
 		A	✘ Sword Burst							Roleplay							Cutlery around Sol
 		A	✔ Mind Sliver							Damage								Intelligent wizard toying with low int pirates
-		A	✔ Lightning Lure						Utility								Lade Lure
+		A	✔ Lightning Lure						Utility								Ladle Lure
 		A	✘ Blade Ward							Utility / Survive					
 	Level 1
 		Rit	✔ Alarm									Utility								Egg timer going off
@@ -170,7 +170,7 @@ Spells aiming for:
 		A	✔ Flaming Sphere						Damage								Solar Peak - Sol will often channel a minute sun into existence
 		A	✔ Aganazzar's Scorcher					Damage					Resource	A line of fire - "Can't handle the heat, stay out of the kitchen?"
 		BA	✘ Dragon's Breath						Damage								Blowing hot ambers
-		BA	✘ Misty Step							Utility								Blazing dash, nothing but embers and smoke remain
+		BA	✔ Misty Step							Utility								Blazing dash, nothing but embers and smoke remain
 		A	✘ Wither and Bloom						Damage & Heal						
 		A	✘ Tasha's Mind Whip						Damage & Utility					Intelligent wizard toying with low int pirates
 		A	✔ Jim's Glowing Coin					Roleplay							Great fun for throwing gold in front of pirates as a distraction to initiate combat
@@ -188,7 +188,7 @@ Spells aiming for:
 		R	✘ Counterspell							Utility								Confidence check
 		A	✘ Bestow Curse							Roleplay & Utility					You seem like somebody who doesn't leave a tip
 		A	✘ Fear									Utility & Roleplay					Confidence check, many quotes ready
-		A	✘ Fly									Utility & Puzzle					Phoenix
+		A	✔ Fly									Utility & Puzzle					Phoenix
 		BA	✔ Spirit Shroud							Utility								The Chef's Critics
 
 Interesting Food Spells (Scrolls which could be found?)
@@ -242,10 +242,13 @@ Intro (NOT COMPLETE)
 	Sol stands with an unshakable confidence. His skin pale blue of a glacier at dusk, held the faintest shimmer, hinting at the magic coursing through him. A mane of fiery red hair, the color of a perfectly seared steak, framed his face, each strand seemingly alive with the flickering heat of his magic.
 
 Inspiration/Ideas;
-https://www.youtube.com/watch?v=umwRJaElqAw
+https://www.youtube.com/watch?v=umwRJaElqAw 0:40
 https://www.gmbinder.com/share/-Mx7iDagHOK6qYdt3yMx#:~:text=Arcane%20Tradition%3A%20Alchemist,of%20potions%20is%20time%20consuming.
 https://homebrewery.naturalcrit.com/share/HkfL8dBP4
 https://www.worldanvil.com/block/470269
+Settled on
+Wizard - Arcane Tradition (Subclass): School of Culinary Arcana	
+https://www.reddit.com/r/UnearthedArcana/comments/cfd5qj/school_of_culinary_arcana_a_wizard_subclass_that/#lightbox
 
 PERSONALITY TRAITS:
 	My friends are my crew; we sink or float together.
@@ -253,3 +256,35 @@ PERSONALITY TRAITS:
 
 FLAWS:
 	Blind arrogance and confidence can prevent Sol from backing out of a dangerous situation.
+
+SOL DEVELOPMENT (Campaign Notes ~ Line 660):
+
+Black... Darkness... Nothingness...
+
+At first, the void did not frighten Sol. Why would it? There was nothing in it. No monster, no storm, no rival, no failure. Just endless dark.
+For a man who had always laughed heartily, feared nothing, and met the world with broad shoulders and brighter confidence, it almost felt amusing. He stood in it proudly, chin high, waiting.
+
+But nothing came... It simply continued... Nothingness...
+No heat. No smell of salt or smoke on the air. No crackle of flame. No clatter of a kitchen. No laughter from a tavern.
+No creak of a ship beneath his feet. No crew. No hunger.
+No praise. No criticism.
+Nothing.
+
+Then Sol understood. This was not a void that threatened him with pain. It threatened him with absence.
+What began to terrify him was not death, but the thought of becoming nothing. Not Sol the Sunlit Chef.
+A blank cookbook. An unnamed trident rusting on a wall. A ship’s galley without him in it. A world that carried on as if Sol had never stood in it.
+
+That was the fear.
+
+For a moment, that truth nearly swallowed him.
+
+Then, stubbornly, proudly, Sol answered it. 
+
+Swapping to 1st person
+
+“No... I am not afraid of failure. Let the meal burn. Let me be mocked. Let me fall short. I can learn. I can try again. I can cook again. But I will not surrender myself to becoming nothing.”
+
+Sol raises his hand, and in his palm appears not a raging inferno, nor a grand spell worthy of ballads, but a small, steady cooking flame. A hearth-flame. Warm, golden, alive.
+Sol realises, in this moment, that greatness is not in being remembered by all people forever. It is in making something real, something warm, something good, while he still has breath to do it.
+
+Now with a steady grin on his face Sol speaks to the void “I am Sol... And it is rather difficult to overlook the sunlit chef when he is the brightest thing in the room.” 
