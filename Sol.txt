@@ -57,7 +57,7 @@ He has 2 familiars (only 1 at a time)
 	A ginger cat named Helios	- Land
 	A shimmering octopus named Apollo	- Water
 
-	A tiny ginger cat sits perched on the handrail, balancing impeccably, (taffrail) with fur the color of a sunrise, impossibly soft and flowing like flames. You see it's emerald eyes, wide and curious, looking out the group.
+	A tiny ginger cat sits perched on the handrail (taffrail) balancing impeccably, with fur the color of a sunrise, impossibly soft and flowing like flames. You see it's emerald eyes, wide and curious, looking out the group.
 
 Brews ales with magical properties, prefers sun/heat based magic.
 
@@ -95,7 +95,7 @@ Background
 		He noticed the giant lack of good scran on ships and found a massive gap in the market serving incredible food and booze to sailors and pirates as they travelled.
 		As he travelled he also begins experimenting with not just boozes but alchemical potions with arcane spells.
 
-Levelling (Wizard)
+Levelling Tracker
 	Each of the spells added to your spellbook must be of a level for which you have spell slots.
 
 	1: 1st level spells, Spellbook + 6, Cantrip + 3, Arcane recovery
@@ -116,6 +116,10 @@ Levelling (Wizard)
 		HP 32
 		+ Fireball, + Spirit Shroud
 	6: Spellbook + 2, Arcane tradition
+		5+6 (11 prepared spells)
+		HP 41
+		+ Misty Step, + Fly
+		+ Create Food and Water x2 people + ritual
 	7: 4th Level Spells, Spellbook + 2
 	8: Spellbook + 2, ASI/Feat
 	9: 5th Level Spells, Spellbook + 2, PB + 1
