@@ -35,3 +35,5 @@
 
 *.zip
 *.DS_STORE
+
+!Meals.txt
