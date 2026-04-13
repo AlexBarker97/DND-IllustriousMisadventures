@@ -1,39 +1,11 @@
-*.pdn
-*.jpg
-*.jpeg
-*.jpe
-*.jif
-*.jfif
-*.jfi
-*.jp2
-*.j2k
-*.jpf
-*.jpx
-*.jpm
-*.mj2
-*.jxr
-*.hdp
-*.wdp
-*.gif
-*.raw
-*.webp
-*.png
-*.apng
-*.mng
-*.tiff
-*.tif
-*.svg
-*.svgz
-*.pdf
-*.xbm
-*.bmp
-*.dib
-*.ico
-*.3dm
-*.max
+*.mp3
 *.mp4
+*.jpg
+*.png
 
-*.zip
-*.DS_STORE
+!Meals.*
+!Quotes & Stories.*
+!Sol.*
+!Campaign Notes.*
 
-!Meals.txt
+AI/Sol.jpg
