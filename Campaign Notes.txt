@@ -729,3 +729,4 @@ Hydra is defeated
 
 
 Control Air and Water - 1st Fog Cloud, 3rd Gust of Wind, 5th Water Walk
+Item that grants no diadvantage on ranged attacks within 5ft?
