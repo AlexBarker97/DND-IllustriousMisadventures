@@ -52,15 +52,18 @@ MEAL 6 - Faewild Forager's Feast
 	Before you lies what may be an aracaphobes fear, but a mighty adventurers' feast pulled together from scavenged treasures of the forest.
 
 MEAL 7 - A-maze-ing Picky-bits
-	A central slow roasted pork...
+	A slow-roasted pork dish served with crisp potatoes, warm bread, and a spread of curious little extras to pick from at the table. Built around choice as much as flavor, each bite can be made bolder, stranger, or more dangerous depending on what gets added.
+	Sol lays out the special picky bits for the meal, turning a hearty roast into something far more adventurous.
 
 	Surrounded by some side dishes
 
+	6 temporary HP and...
 	Choices of:
 		Nightmare Shrooms:
 			-1 point of Wisdom 8 hours or until burned
 			Burn: Barbaric Rage for one minute
-		...
-			...
-		...
-			...
+		Dragon Scale:
+			Resistance to fire damage
+			Burn: Action can do a cone of damage 4d6 of fire damage.
+		Adrenachrome:
+			+2 Initiative +5ft movement

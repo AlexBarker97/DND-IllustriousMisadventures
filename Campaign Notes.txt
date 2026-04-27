@@ -657,6 +657,8 @@ The party continues into the next room which looks like a lush green camp. Long 
 
 Sol cooks a meal - Meal 7 "A-maze-ing Picky-bits"
 
+//////////////////////////////////////////////
+
 SOL DEVELOPMENT:
 
 Black... Darkness... Nothingness...
@@ -664,27 +666,60 @@ Black... Darkness... Nothingness...
 At first, the void did not frighten Sol. Why would it? There was nothing in it. No monster, no storm, no rival, no failure. Just endless dark.
 For a man who had always laughed heartily, feared nothing, and met the world with broad shoulders and brighter confidence, it almost felt amusing. He stood in it proudly, chin high, waiting.
 
-But nothing came... It simply continued... Nothingness...
+But nothing came... It simply continued. Nothingness...
 No heat. No smell of salt or smoke on the air. No crackle of flame. No clatter of a kitchen. No laughter from a tavern.
 No creak of a ship beneath his feet. No crew. No hunger.
 No praise. No criticism.
 Nothing.
 
-Then Sol understood. This was not a void that threatened him with pain. It threatened him with absence.
-What began to terrify him was not death, but the thought of becoming nothing. Not Sol the Sunlit Chef.
-A blank cookbook. An unnamed trident rusting on a wall. A ship’s galley without him in it. A world that carried on as if Sol had never stood in it.
+Then Sol understood. This was not a void that threatened him with pain. It threatened him with absence. What began to terrify him was not death, but the thought of becoming nothing. Not Sol the Sunlit Chef. A blank cookbook. An unnamed trident rusting on a wall. A ship’s galley without him in it. A world that carried on as if Sol had never stood in it.
 
-That was the fear.
+That was the fear. Not failure, but never having become anything at all.
 
-For a moment, that truth nearly swallowed him.
+A voice booms out all around, smothering you with its intensity.
+"You are irrelevant, Solemon Smith. You are the ash that will return to ash. A life with no substance such as yours, I take with ease.
 
-Then, stubbornly, proudly, Sol answered it. 
+You feel your life force start to slip away, as though it was being siphoned from you by some enormous tap, draining you dry.
+For a moment, that truth nearly swallowed him. Then, stubbornly, proudly, Sol answered it. 
 
-Swapping to 1st person
+___
 
 “No... I am not afraid of failure. Let the meal burn. Let me be mocked. Let me fall short. I can learn. I can try again. I can cook again. But I will not surrender myself to becoming nothing.”
 
 Sol raises his hand, and in his palm appears not a raging inferno, nor a grand spell worthy of ballads, but a small, steady cooking flame. A hearth-flame. Warm, golden, alive.
 Sol realises, in this moment, that greatness is not in being remembered by all people forever. It is in making something real, something warm, something good, while he still has breath to do it.
 
-Now with a steady grin on his face Sol speaks to the void “I am Sol... And it is rather difficult to overlook the sunlit chef when he is the brightest thing in the room.” 
+Now with a steady grin on his face Sol speaks to the void “I am Sol... And it is rather difficult to overlook the sunlit chef when he is the brightest thing in the room.”
+
+//////////////////////////////////////////////
+
+"Shatter the weak link"
+Written on wall of next room, Oracle goes to exit but all the party black out.
+
+Chester Development +1 Con
+	Craft not becomming enough, Chester not becomming enough.
+Siren Development +1 Str
+	Siren amongst the adventuring party, a perfect day, he almost forgets Phanny & Dinky. But then Sirens come roaring from the water, murderous, each of the party ripped apart. Each speaks "if only you were stronger", they all blame.
+AL:FRED +1 Wis
+	Looking forward to meeting creator Niv-Mizzet. Niv-Mizzet shows no interest and doesn't recognise AL:FRED. Tools should not speak. Put away in a closet jail left for centuries, then taken out of the closet and Niv-Mizzet switches him off.
+Sol +1 Cha
+Oracle +1 Cha
+	The final village of the Archipelago has fallen at the might of his temple. He slams a dagger into the last mans chest. A bolt of lightning goes through Oracles hand and into the man. The pain of this and charring of his hand make him whoozy. Asiron stands before Oracle. Asiron "My will is your command, you are an instrument". Oracles son leaves Oracle to die.
+
+permanent attribute buffs
+2d10 temp hp
+on hit 1d4 lightning on weapon attacks
+
+Small boy speaking abbysal turns into a hydra in deep water
+
+Siren in a rage blows fire protected by his cloak of displacement
+Chester grappling guns in and turns into a giant crocodile, a sleet storm above the hydra
+Oracle walks on the water and summons a spiritual weapon. Goes into a rage form standing on a cloud.
+Sol shoots beams of fire from his hands taking out one of the heads. Another head is dead but forming into 2 new ones
+AL:FRED Anti gravity invention, AL:FRED Blasting (lightning spell), and owl:fred floating by him
+
+
+Hydra is defeated
+20kg Hydra meat
+2 Hydra Fang
+5 hydra scales
