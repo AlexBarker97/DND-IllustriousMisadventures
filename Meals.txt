@@ -62,7 +62,7 @@ MEAL 7 - A-maze-ing Picky-bits
 		Nightmare Shrooms:
 			-1 point of Wisdom 8 hours or until burned
 			Burn: Barbaric Rage for one minute
-		Dragon Scale:
+		Dragon's Plate:
 			Resistance to fire damage
 			Burn: Action can do a cone of damage 4d6 of fire damage.
 		Adrenachrome:

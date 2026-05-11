@@ -557,10 +557,12 @@ Potion of Fire resistance
 Arrow-Catching Shield
 Cloak - Wis modifier on attack rolls - Oracle
 
-Diary entry points east.
+Hassan's diary entry points east.
 The party sails east, after a couple of days sailing they finding a floating ship.
 Upon investigation there is magic levitating this ship
 Chester uses his grappling hook, Al:Fred uses his hover boots
+
+On the waters the party sees an abandoned ship, they search it.
 
 Nobody is on the ship, it appears instantly abandoned, food op plates, clothes on beds.
 
@@ -707,6 +709,7 @@ Oracle +1 Cha
 	The final village of the Archipelago has fallen at the might of his temple. He slams a dagger into the last mans chest. A bolt of lightning goes through Oracles hand and into the man. The pain of this and charring of his hand make him whoozy. Asiron stands before Oracle. Asiron "My will is your command, you are an instrument". Oracles son leaves Oracle to die.
 
 permanent attribute buffs
+
 2d10 temp hp
 on hit 1d4 lightning on weapon attacks
 
@@ -718,15 +721,15 @@ Oracle walks on the water and summons a spiritual weapon. Goes into a rage form 
 Sol shoots beams of fire from his hands taking out one of the heads. Another head is dead but forming into 2 new ones
 AL:FRED Anti gravity invention, AL:FRED Blasting (lightning spell), and owl:fred floating by him
 
-
 Hydra is defeated
 20kg Hydra meat
 2 Hydra Fang
 5 hydra scales
 
+Sol cooks a Bolstering Bowl
+Sol cooks 3 dumpling snacks (Quick Snacks -Hydra Scale):
+	Consumed as an action to restore 1 level 3 spell slot (or lower), and restore 3d4 hp.
+	
+The party gets a long rest
 
-
-
-
-Control Air and Water - 1st Fog Cloud, 3rd Gust of Wind, 5th Water Walk
 Item that grants no diadvantage on ranged attacks within 5ft?
