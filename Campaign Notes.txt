@@ -550,6 +550,7 @@ Hassan lets the party know he was a crewmate of Mousengard and has a diary entry
 Hassan feels its his duty and after the fight heads through the portal, the portal closes behind him.
 
 In Hassan's house next diary entry (4) is found and..
+Also a "lucky" stone Luckstone - later found to only give adv on 1st then disadv
 
 Knuckle Studs - Should a character wish to make use of these studs, they must drill into their fingers to create a hole in each base knuckle. They must pass a DC10 Medicine check, or permanently lose 1 Dexterity. The studs allow one to make an unarmed attack with their bare fists, that does 1d6+Str+Prof - Chester
 Talking Doll - https://dnd5e.wikidot.com/wondrous-items:talking-doll - Corinna
@@ -727,9 +728,15 @@ Hydra is defeated
 5 hydra scales
 
 Sol cooks a Bolstering Bowl
+	Dex & Wis +3 next check or save, +1 for the subsequent. Optional.
 Sol cooks 3 dumpling snacks (Quick Snacks -Hydra Scale):
 	Consumed as an action to restore 1 level 3 spell slot (or lower), and restore 3d4 hp.
-	
+
 The party gets a long rest
+Chester faces a demon again in the night who gives him the ability to walk asking for a map of the stars for renewed youth and the ability to walk again.
+Chester declines this offer. All of his druidic powers are gone.
+
+Cultists in a smaller ship attack the party
+One calls out we are 30 something west of their base, calls in lightning attack.
 
 Item that grants no diadvantage on ranged attacks within 5ft?

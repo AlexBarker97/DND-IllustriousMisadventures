@@ -67,3 +67,9 @@ MEAL 7 - A-maze-ing Picky-bits
 			Burn: Action can do a cone of damage 4d6 of fire damage.
 		Adrenachrome:
 			+2 Initiative +5ft movement
+
+MEAL 8 - The Snappy Hydra Slider
+	A platter of golden buns with a perfect crust holding patties of prime hydra neck-meat. The meat is remarkably tender, still sizzling with a faint, rhythmic hiss that echoes the beast’s regenerative nature, finally you meet a magical aftertaste of caramelised salt and char which remains long after the sliders are gone.
+
+	Alongside there are 3 dumplings caringly crafted using some of the hydra scales.
+
