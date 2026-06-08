@@ -73,3 +73,7 @@ MEAL 8 - The Snappy Hydra Slider
 
 	Alongside there are 3 dumplings caringly crafted using some of the hydra scales.
 
+MEAL 9 - The Green Robe Stew
+	A deep green stew with whisps of shimmering golden sunseed oil made entirely from the natural gifts of the Druid island. Sweet starroots, wild greens, and a handful of rare spices coaxed out of local plants.
+	Roots, island mushrooms, and tender shoots are fire-roasted until their skins blister and their centres turn golden are then folded through the stew.
+	As it is served, Sol scatters crispy twiglet croutons across the top, fried until brittle. Each spoonful is soft, warm, and nourishing, until the final crunch reminds everyone exactly what tried to ambush them in the woods.
