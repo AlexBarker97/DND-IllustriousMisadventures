@@ -1,6 +1,5 @@
 MEAL 1 - Dawn Lobster Banquet
-	Desc: Lobster with Special Seaweed, Kelp and Zest to stave off Scurvy
-	Details: A colossal lobster, its shell a spectacle of coral and blue, takes center stage, the only item on show. Sol splits the lobster open, revealing pearly flesh infused with vibrant seaweed and golden kelp. An eternal flame lies in the center smoking the lobster from the inside out. A shimmering citrus powder, a clever blend of sun-dried oranges, lemons, and pineapples, adorned the lobster, adding a burst of tang and a clever defense against scurvy.
+	A colossal lobster, its shell a spectacle of coral and blue, takes center stage, the only item on show. Sol splits the lobster open, revealing pearly flesh infused with vibrant seaweed and golden kelp. An eternal flame lies in the center smoking the lobster from the inside out. A shimmering citrus powder, a clever blend of sun-dried oranges, lemons, and pineapples, adorned the lobster, adding a burst of tang and a clever defense against scurvy.
 
 MEAL 2 - Sea-Kissed Emberlight Halibut (competition)
 	Sol steps to the table, a light-hearted confidence across his face, his skin already eminating glowing ambers.
@@ -77,3 +76,16 @@ MEAL 9 - The Green Robe Stew
 	A deep green stew with whisps of shimmering golden sunseed oil made entirely from the natural gifts of the Druid island. Sweet starroots, wild greens, and a handful of rare spices coaxed out of local plants.
 	Roots, island mushrooms, and tender shoots are fire-roasted until their skins blister and their centres turn golden are then folded through the stew.
 	As it is served, Sol scatters crispy twiglet croutons across the top, fried until brittle. Each spoonful is soft, warm, and nourishing, until the final crunch reminds everyone exactly what tried to ambush them in the woods.
+
+MEAL 10 - The Champion's Crown
+    No flesh nor alcohol sit within the meal; it is a dish of restraint, mercy, and chosen purpose, made for Chester's path to become Dianna's Champion.
+
+    A deep aquamarine watermelon with green rind polished like ancient scales is carved into the likeness of a roaring T-REX head.
+    Sol surrounds the dish with brittle twiglet shards, crisped until they snap like dry branches underfoot, honouring the first trial.
+    A single mooncap mushroom rests among a ring of island mushrooms and roasted starroot rounds, left whole and unsliced, a reminder of the life Chester refused to judge for himself.
+    A warm serene mist continuously rises from a shallow pool of herby broth in the centre of the dish, carrying tender whistlegrass and golden grains forming reeds and sunlit stones beneath the sacred red tree.
+    Dotted around are four small beetroot altars with sliced open fruits, representing the sacrifice made.
+
+    Champion's Crown feature:
+        12 temporary HP
+        As an action eaters can burn the meal in their stomach for 3d8 HP
