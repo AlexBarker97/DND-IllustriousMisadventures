@@ -89,3 +89,6 @@ MEAL 10 - The Champion's Crown
     Champion's Crown feature:
         12 temporary HP
         As an action eaters can burn the meal in their stomach for 3d8 HP
+
+MEAL 11 - Boneless Bucket of Hell
+	

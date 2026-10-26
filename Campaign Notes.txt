@@ -252,7 +252,7 @@ Main cave, Siren Bossfight
 
 	Side passage under water has something calling to Siren
 		Gold dragon shaped statue, with a shell on its back
-			As a bonus action, if the vessel is empty, you can speak the command word to fill the vessel with one of the following (your choice): Ale, Olive Oil, a Potion of Healing, or a Potion of Climbing. Once this property is used, it can�t be used until the next dawn. A potion you create in this way loses its magical properties if it isn�t imbibed within 24 hours.
+			As a bonus action, if the vessel is empty, you can speak the command word to fill the vessel with one of the following (your choice): Ale, Olive Oil, a Potion of Healing, or a Potion of Climbing. Once this property is used, it can't be used until the next dawn. A potion you create in this way loses its magical properties if it isn't imbibed within 24 hours.
 
 	LOOT Sol Chest d100
 		Cloak of Protection
@@ -824,3 +824,25 @@ Trial 4
 
 	Oracle notices this when being told and says he is similarly chosen as Asiron's chhosen champion.
 
+Hell Notes
+	Topaz Elemental Gem loot - one time use 5th level conjure elemental spell -> Sol
+		Releases an earth Elemental
+		Action to summon, obeys verbal commands, concentration holds
+	Eargnome translator -> Chester
+	Luckstone
+		Could not throw luckstone away even when not in debt.
+		Sol gives away cursed luckstone
+	Sol purchases Cloak of Elements
+		Turns out to talk to you constantly when you wear it so Sol drops it in lava
+	Oracle buys Fresh Pasta - cooking ingredient (advantage on concentration checks, burn for extra action)
+		Given to Sol
+	Oracle Shoe of Move
+		Misty step for free 3 times per day but can only speak 1 syllable words or it dissapears
+	Orange potion glass bottle leather strap - Siren
+
+	Dust of Disappearance used (smoke of deceit)
+
+	Party scouts then chooses a group to fight
+
+	Flying boys not fire resistant
+	Bearded devils fire resistant

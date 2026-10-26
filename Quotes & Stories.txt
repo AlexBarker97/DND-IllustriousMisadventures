@@ -74,7 +74,7 @@ Show of Confidence
 	To remain calm and collected is the earned right of the powerful.
 	Pardon me, I find it irksome to be looked down upon by someone smaller.
 	It's hard to miss a chef who literally lights up the room.
-	My name is Sol, commit it to memory before I kill you.
+	My name is Sol, commit it to memory.
 	A true chef never rushes perfection.
 	I don’t just cook. I curate fate.
 	Tonight’s recipe: resolve, heat, and heroics.
@@ -98,25 +98,25 @@ Sol Takes Damage
 	Hah. I’ve been scalded better.
 
 Steam Cloud
-	Time for a good steaming
+	Time for a good steaming.
 	Let the mist marinate your fear.
 	Steam rises; fear follows.
 
 Melee hit Trident
-	Three-pronged attack! And your side dish is defeat
-	Get a skewer-load of this
+	Three-pronged attack! And your side dish is defeat.
+	Get a skewer-load of this.
 	Skewered and served.
 	Trident sear. Perfect crust.
 
 Melee hit sharp
-	This blade cuts more than vegetables. It severs the connection between arrogance and your hide
+	This blade cuts more than vegetables. It severs the connection between arrogance and your hide.
 	Precision cut. Chef’s kiss.
 	That slice was fire‑kissed.
 
 Upon Dealing devastating damage
-	The only thing getting served here is a piping hot beatdown
-	Bon appetit, matey
-	You forgot your compliments to the chef
+	The only thing getting served here is a piping hot beatdown.
+	Bon appetit, matey.
+	You forgot your compliments to the chef.
 	Served hot, eaten whole.
 	That’s a five‑star finish.
 
